@@ -1,4 +1,5 @@
 import feedparser
+import re
 import os
 import urllib2
 
@@ -14,22 +15,27 @@ def extract_from_template(data_file):
     """ Extract from template """
     # Open file
     nlrb_doc = open(data_file, 'r')
-    doc_lines = []
-    for i, line in enumerate(nlrb_doc):
-        doc_lines.append(line)
-
+    doc_lines = nlrb_doc.readlines()
+    doc_text = ''.join(doc_lines)
     # Template 1
     if doc_lines[0][0:6] == 'UNITED':
         print "Template found. Parsing data..."
+        case_no = find_case_no(doc_text)
+
         return_data =   {   'location'      : doc_lines[4].strip(),
                             'employer'      : doc_lines[6].strip(),
                             'petitioner'    : doc_lines[12].strip(),
-                            'case_no'       : doc_lines[16][5:].strip(),
+                            'case_no'       : case_no,
                         }
 
         return return_data        
     else:
         return "No Template Found for " + data_file
+
+def find_case_no(doc_text):
+    case_no = re.search('[0-9]{2}-[A-z]{2}-[0-9]{6}', doc_text)
+
+    return case_no.group(0)
 
 def get_all_samples(board_decisions_entries):
     foo = 1
