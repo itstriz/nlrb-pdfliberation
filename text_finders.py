@@ -4,9 +4,7 @@ sample_file = 'sample1.txt'
 f = open(sample_file, 'r')
 data = f.readlines()
 
-for row in data:
-    if row.strip() == 'Employer':
-        row_num = data.index(row)
-        break
+regex = re.compile(r'[A-z]*, [A-Z]{2}')
+loc_info = regex.search(''.join(data))
 
-print data[row_num-2]
+print loc_info.group()
