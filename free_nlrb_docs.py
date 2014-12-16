@@ -33,9 +33,12 @@ def extract_from_template(data_file):
         return "No Template Found for " + data_file
 
 def find_case_no(doc_text):
-    case_no = re.search('[0-9]{2}-[A-z]{2}-[0-9]{6}', doc_text)
+    case_num = re.findall('[0-9]{2}-[A-z]{2}-[0-9]{6}', doc_text)
+    case_nums = []
+    for num in case_num:
+        case_nums.append(num)
 
-    return case_no.group(0)
+    return case_nums
 
 def get_all_samples(board_decisions_entries):
     foo = 1
