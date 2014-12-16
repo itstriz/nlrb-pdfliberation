@@ -1,0 +1,2731 @@
+NOTICE:  This opinion is subject to formal revision before publication in the 
+bound volumes of NLRB decisions.  Readers are requested to notify the Ex-
+ecutive  Secretary,  National  Labor  Relations  Board,  Washington,  D.C.  
+20570, of any typographical or other formal errors so that corrections can 
+be included in the bound volumes.
+
+Pessoa  Construction  Company  and Laborers’  Inter-
+national  Union  of  North  America.    Cases  05–
+CA–034547, 05–CA–034761, and 05–CA–035083
+
+December 15, 2014
+
+SUPPLEMENTAL DECISION AND ORDER
+
+BY MEMBERS MISCIMARRA, HIROZAWA, AND SCHIFFER
+On  December  24,  2013,  Administrative  Law  Judge 
+Geoffrey  Carter issued  the  attached  supplemental  deci-
+sion.  The Respondent filed exceptions and a supporting 
+brief, and the General Counsel filed cross-exceptions and 
+a  supporting  brief.    The  Respondent  and  the  General 
+Counsel each filed an answering brief and a reply brief.  
+The National Labor Relations Board has delegated its 
+
+authority in this proceeding to a three-member panel.
+
+The Board has considered the decision and the record 
+in light of the exceptions and briefs and has decided to 
+affirm  the  judge’s  rulings,1 findings,2 and  conclusions 
+and to adopt the recommended Order.
+                                                          
+
+1 The Respondent excepts to the judge’s ruling granting certain por-
+tions  of  the  General  Counsel’s  motion  for  partial  summary  judgment
+and finding that some of the Respondent’s answers to the compliance 
+specification and amendments were deficient under the Board’s Rules 
+and Regulations.  We find it unnecessary to decide whether the judge’s 
+ruling  was  correct.    Even  if  the  judge  was  mistaken,  it  was,  at most, 
+harmless error: the judge also ruled on the merits of the allegations in 
+the  compliance  specification  and  amendments,  and  we  are  affirming 
+those findings.  
+
+The Respondent also argues that the judge erroneously excluded ev-
+idence of the discriminatee’s prior criminal convictions.  We find that 
+the judge did not abuse his discretion in excluding this evidence.  
+
+2 The General Counsel and the Respondent have excepted to some of 
+the judge’s credibility findings.  The Board’s established policy is not 
+to overrule an administrative law judge’s credibility resolutions unless 
+the clear preponderance of all the relevant evidence convinces us that 
+they are incorrect.  Standard Dry Wall Products, 91 NLRB 544 (1950), 
+enfd. 188  F.2d 362  (3d Cir. 1951).   We  have  carefully  examined  the 
+record and find no basis for reversing the findings.
+
+No party asks us to revisit or overrule St. George Warehouse, 351 
+NLRB  961 (2007),  but  the  General  Counsel  excepts  to  the  judge’s 
+determination that the Respondent showed that substantially equivalent 
+jobs  were  available  during  the  backpay  period  as  required  by  St. 
+George.  We find it unnecessary to pass on this exception.  A finding 
+that the Respondent failed to carry its burden would not affect the out-
+come because the judge found, and we agree, that the General Counsel 
+demonstrated  that  the  discriminatee  engaged  in  a  reasonable  effort  to 
+find work.  
+
+In affirming the judge’s order, we do not rely on his citations to La-
+tino  Express,  359  NLRB  No.  44  (2012),  or  Life’s  Connections,  359 
+NLRB  No.  85  (2013).    We  nevertheless  agree  that  the  Respondent 
+should not be ordered to compensate the discriminatee for the adverse 
+tax consequences of his backpay award or to file a report with the So-
+cial  Security  Administration  allocating  backpay  to  the  appropriate 
+quarters.    These  remedies  are  not  appropriate  because  they  were  not 
+
+361 NLRB No. 138
+
+ORDER
+
+The  National  Labor  Relations  Board  orders  that  the 
+Respondent,  Pessoa  Construction  Company,  Fairmont 
+Heights,  Maryland, its  officers,  agents,  successors,  and 
+assigns, shall make whole William Membrino by paying 
+him $95,046.07, plus interest accrued to the date of pay-
+ment  as  prescribed  in  New  Horizons  for  the  Retarded, 
+283  NLRB  1173  (1987),  and  Kentucky  River  Medical 
+Center, 356 NLRB No. 8 (2010), minus tax withholdings 
+required by Federal and State laws. 
+
+Dated, Washington, D.C.  December 15, 2014
+
+Philip A. Miscimarra,                          Member
+
+Kent Y. Hirozawa,                               Member
+
+Nancy Schiffer,                                    Member
+
+(SEAL)          NATIONAL LABOR RELATIONS BOARD
+
+Chad  M.  Horton  and Theresa  A.  Lenz,  Esqs.,  for  the  General 
+
+Counsel.
+
+Michael Avakian, Esq., for the Respondent.
+
+SUPPLEMENTAL DECISION
+
+STATEMENT OF THE CASE
+
+GEOFFREY  CARTER,  Administrative  Law  Judge.  This  sup-
+plemental proceeding was tried before me in Washington, D.C., 
+on September 4–6, 9–10, 2013,1 pursuant to a compliance spec-
+ification and notice of hearing that issued on May 31, 2013, and 
+was amended on August 1, 2013. 
+
+In  the  underlying  administrative  law  judge  (ALJ)  decision, 
+Judge  Arthur  Amchan  found  (among  other  violations  not  at 
+issue  here)  that  Pessoa  Construction  Company  (Respondent) 
+violated Section 8(a)(3) and (1) of the National Labor Relations 
+Act (the Act) when it discharged employee William Membrino.  
+Judge  Amchan  recommended  that  Respondent  be  required  to 
+offer  Membrino  full  reinstatement  to  his  former  job  and  also 
+make Membrino whole for any loss of earnings and other bene-
+fits suffered as a result of the discrimination against him.  In a 
+Decision  and  Order  dated  May  19,  2011,  the  Board  adopted 
+Judge Amchan’s recommended Order, with the slight modifica-
+                                                                                            
+included in the Board’s Order in the unfair labor practice case, which 
+has since been enforced by the United States Court of Appeals for the 
+Fourth Circuit.  356 NLRB No. 157 (2011), enfd. 507 Fed. Appx. 304 
+(4th  Cir.  2013).    Compare  Interstate  Bakeries  Corp.,  360  NLRB  No. 
+23, slip op. at 1 fn. 3 (2014) (finding Board no longer possesses juris-
+diction to modify Order enforced by court of appeals). 
+
+1 All dates are from 2008 to 2013, as specified where appropriate in 
+
+this decision.
+
+2
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+tion that any backpay or monetary awards would be paid with 
+interest compounded on a daily basis. Pessoa Construction Co., 
+356 NLRB No. 157, slip op. at 1 & fn. 5 (2011).  On January 
+25, 2013, the U.S. Court of Appeals for the Fourth Circuit en-
+forced  the  Board’s  order.    Pessoa  Construction  Co.v. NLRB, 
+507 Fed. Appx. 304 (4th Cir. 2013) (per curiam).
+
+The  compliance  specification  at  issue  here  alleges  the 
+amount of backpay due under the terms of the Board’s Decision 
+and Order.  The General Counsel alleges that Respondent owes 
+$107,929  in  backpay  to Membrino,  plus  interest  compounded 
+daily and Respondent’s share of FICA contributions.  (GC Exh. 
+1(k).)  Respondent maintains that it only owes $912 in backpay 
+to Membrino.  (GC Exhs. 1(i) and 1.)
+
+General Counsel’s Motion for Partial 
+
+Summary Judgment
+
+A. Background
+
+On August 23, 2013, the General Counsel notified Respond-
+ent  by  email  that  the  General  Counsel  believed  Respondent’s 
+answers  to  paragraphs  4(e)  and  (g)  of  the  amendment  to  the 
+compliance  specification  were  insufficient  and  not  in  compli-
+ance with Section 102.56(b) and (c) of the Board’s Rules and 
+Regulations.    Later  that  same  day,  the  General  Counsel  also 
+notified  Respondent  that  it  believed  Respondent’s  answers  to 
+paragraphs 3 and 4(h) of the compliance specification were not 
+sufficiently specific to comply with the applicable Board Rules.  
+The  General  Counsel  asked  Respondent  to  file  an  amended 
+answer  by  August  30  that  provided  more  specificity  about  its 
+assertions and calculations, and warned that if Respondent did 
+not  file  an  amended  answer,  the General  Counsel  would  con-
+sider  filing  a  motion  for  summary  judgment  or  a  motion  to 
+strike  before  the  hearing.    Respondent’s  counsel  replied  by 
+email that he was tied up for the afternoon (on August 23), but 
+did not take further action to respond to the concerns that the 
+General  Counsel  raised  about  Respondent’s  answers  to  the 
+compliance specification.  (Motion for Partial Summary Judg-
+ment, Exh. 7.)
+
+On September 4, 2013, the first day of trial in this matter, the 
+General Counsel filed a motion for partial summary judgment 
+in which it asserted that Respondent’s answers to the compli-
+ance specification and amendments thereto were deficient un-
+der  applicable  Board  Rules  and  Regulations.    In  a  discussion 
+held  off  the  record  with  all  parties,  the  General  Counsel  re-
+quested that we proceed with the trial (instead of continuing the 
+trial to allow Respondent the opportunity to file a brief in re-
+sponse to the motion for partial summary judgment), and that I 
+consider its motion when preparing my supplemental decision 
+and order on the merits.  I agreed, and now turn to the General 
+Counsel’s motion for partial summary judgment.  In that con-
+nection, I note that although Respondent filed a posttrial brief 
+in this matter, it did not address the issues raised in the General 
+Counsel’s motion for partial summary judgment.
+
+B. Applicable Legal Standards—Motion for Partial 
+
+Summary Judgment
+
+Section 102.56(b) and (c) of the Board’s Rules and Regula-
+tions states as follows regarding the type of information that a 
+
+respondent  needs  to  provide  when  submitting  an  answer  to  a 
+compliance specification:
+
+(b) Contents of answer to specification.—The answer
+shall  specifically  admit,  deny,  or  explain  each and  every 
+allegation  of  the  specification,  unless  the respondent  is 
+without knowledge, in which case the respondent shall so 
+state,  such  statement  operating  as a  denial.  Denials  shall 
+fairly meet the substance of the allegations of the specifi-
+cation at issue. When a respondent intends to deny only a 
+part of an allegation, the respondent shall specify so much 
+of it as is true and shall deny only the remainder. As to all
+matters within the knowledge of the respondent, including
+but  not  limited  to  the  various  factors  entering into  the 
+computation  of  gross  backpay,  a  general denial  shall  not 
+suffice. As to such matters, if the respondent disputes ei-
+ther the accuracy of the figures in the specification or the 
+premises on which they are based, the answer shall specif-
+ically state the basis for such disagreement, setting forth in 
+detail the respondent’s position as to the applicable prem-
+ises and furnishing the appropriate supporting figures.
+
+(c) Effect of failure to answer or to plead specifically 
+
+and in detail to backpay allegations of specification.—
+. . . .  If the respondent files an answer to the specification but 
+fails to deny any allegation of the specification in the manner 
+required by paragraph (b) of this section, and the failure so to
+deny  is  not  adequately  explained,  such  allegation shall  be 
+deemed to be admitted to be true, and may be so found by the 
+Board without the taking of evidence supporting such allega-
+tion, and the respondent shall be precluded from introducing 
+any evidence controverting the allegation.
+
+Consistent with these rules, the Board has granted motions for 
+partial summary judgment when a respondent files a deficient 
+answer  (e.g.,  an  answer  that  fails  to  deny  certain  allegations 
+with  the  specificity  required  by  Board  Rule  102.56(b))  to  a 
+compliance  specification.    See,  e.g.,  SRC  Painting,  LLC,  356 
+NLRB No. 74, slip op. at 2 (2011).
+
+C. Analysis—Motion for Partial Summary Judgment
+
+In its motion, the General Counsel requested that I: (a) find 
+that Respondent admitted paragraphs 2, 3, and 4 of the compli-
+ance  specification,  and  paragraphs  4(e)  and  (g),  and  7  of  the 
+amendment to the compliance specification, because Respond-
+ent’s answers to those paragraphs were deficient; (b) strike the 
+affirmative  defenses  stated  in  paragraphs  1–3  and  5–6  of  Re-
+spondent’s  answers;  and  (c)  grant  partial  summary  judgment.  
+As discussed below, I find that several aspects of the General 
+Counsel’s motion have merit.
+
+1. Should any allegations in the compliance specification 
+
+and amendment thereto be deemed admitted?
+
+a. Paragraph 2—The backpay period
+
+The  General  Counsel  alleged  that  the  backpay period  runs 
+from  October  24,  2008,  to  February  8,  2013.    Respondent 
+agreed  that  the  October  24,  2008  start  date  is  correct,  and 
+acknowledged that it offered to reinstate Membrino on Febru-
+ary  8,  2013.    However,  Respondent  also  asserted  that  “the 
+
+PESSOA CONSTRUCTION CO.
+
+3
+
+regular and overtime hours should be based on the three calen-
+dar quarters prior to Membrino’s discharge, and calculated that 
+Membrino worked an average of 444.6 regular hours and 61.1 
+overtime  hours  per  calendar  quarter,  and  was  entitled  to 
+$108,397.90  in  net  backpay  (after  deducting  interim  earnings 
+from gross backpay of $199,285.90).3  (GC Exhs. 1(d), par. 4; 
+1(g).)    Respondent  denied  virtually  all  of  those  allegations, 
+maintaining  that:  Membrino’s  regular  and  overtime  earnings 
+and hours should be determined based on when he was availa-
+ble to work, when he would have worked with employee S.M. 
+until laid off, and/or the hours that replacement employee R.S. 
+(or other unspecified comparable employees) worked; and that 
+the  regular  and  overtime  wage  rates  were  $18/hour  and 
+$27/hour, 
+that 
+Membrino worked an average of 425.5 regular hours and 34.2 
+overtime hours per calendar quarter, and further contended that 
+Membrino’s gross backpay figure was only $912  (all of which 
+was based on the fourth quarter of 2008).  (GC Exh. 1(i), par. 4; 
+id. (Exhibit 1).)
+
+  Respondent  also  asserted 
+
+respectively. 
+
+I agree with the General Counsel that Respondent’s answer 
+is deficient as to the claims that gross backpay should be meas-
+ured based on when Membrino would have been laid off, the 
+wages  that  Membrino  would  have  earned  had  he  continued 
+working  with  employee  S.M.,  and  the  amount  of  wages  that 
+employee  R.S.  earned  as  Membrino’s  alleged  replacement.  
+Although these claims raise issues that are within Respondent’s 
+knowledge,  Respondent  provided  no  supporting  dates  or  fig-
+ures, again leaving the General Counsel to speculate as to what 
+countervailing gross backpay formulae or amounts Respondent 
+believes are accurate.  
+
+backpay  period  terminated  no  later  than  December  1,  2008.”  
+(GC Exh. 1(f).)
+
+The Board’s decision in Aneco, Inc., 330 NLRB 969 (2000), 
+is  instructive  as  to  whether  Respondent’s bare  assertion of  an 
+alternative  end  date  to  the  backpay  period  was  sufficient.    In 
+that case, which involved a compliance specification based on 
+an  unlawful  refusal  to  hire  the  discriminatee,  the  respondent 
+asserted in its answer that the backpay period would have only 
+lasted  2  weeks  because  the  discriminatee  only  needed  that 
+amount of time to either organize the respondent’s employees 
+or  determine  that  such  efforts  were  futile.    Id.  at  970.    The 
+Board  denied  the  General  Counsel’s  motion  for  summary 
+judgment  on  this  point,  finding  that  respondent’s  answer  was 
+sufficiently  specific  insofar  as  it specified  both  an  alternative 
+date for when the backpay period closed, and the basis for the 
+alternative date.  Id. at 971.
+
+Based  on  the  Board’s  analysis  in  Aneco,  Inc.,  supra,  I  find 
+that  Respondent’s  answer  to  paragraph  2  of  the  compliance 
+specification was deficient.  Although Respondent provided an 
+alternative date (December 1, 2008) for the end of the backpay 
+period,  Respondent  did  not  state  a  basis  for  that  alternative 
+date,  thereby  forcing  the  General  Counsel  to  speculate  about 
+what theory or evidence Respondent relied upon for its claim.  
+Since Respondent did not explain adequately its failure to deny 
+the allegations in paragraph 2 of the compliance specification in 
+a manner consistent with Board Rule 102.56(b), I will grant the 
+General Counsel’s motion for partial summary judgment as to 
+paragraph 2, and deem paragraph 2 of the compliance specifi-
+cation as admitted as true.2  
+
+b. Paragraphs 3 and 4—Gross backpay formula 
+
+and calculation
+
+In paragraph 3 of the compliance specification, the General 
+Counsel alleged that an appropriate measure of gross backpay 
+would be the amount that Membrino would have earned had he 
+been employed by Respondent throughout the backpay period.  
+(GC Exh. 1(d), par. 3.)  Respondent asserted in its answer that 
+the appropriate measure of gross backpay was: the difference in 
+wages that Membrino would have earned until he became una-
+vailable  for  work  under  U.S.  Department  of  Transportation 
+(DOT)  regulations;  the  difference  in  wages  that  Membrino 
+would  have  earned  until  he  would  have been  laid  off  by  Re-
+spondent;  the  amount  of  wages  that  Membrino  would  have 
+earned based on work performed with employee S.M.; and/or 
+the  amount  of  wages  that  replacement  employee  R.S.  earned.  
+(GC Exh. 1(f), par. 3.)
+
+The  parties  disagreed  along  similar  lines  regarding  how  to 
+calculate  gross  backpay.    Specifically,  in  paragraph  4  of  the 
+compliance  specification,  the  General  Counsel  alleged  gross 
+backpay  should  be  calculated  by  adding  Membrino’s  average 
+regular  earnings  per  calendar  quarter  to  his  average  overtime 
+earnings  per  calendar  quarter,  using  a  regular  wage  rate  of 
+$22/hour  and  an  overtime  rate  of  $33/hour  (time-and-a-half).  
+The  General  Counsel  also  alleged  that  Membrino’s  average 
+                                                          
+
+2 To the extent that Respondent raised an affirmative defense based 
+on par. 2 of its answer, I will also grant the General Counsel’s motion 
+to strike that defense.
+
+I also agree that Respondent’s answer is deficient as to the 
+calculations  that  Respondent  proffered  for  Membrino’s  wage 
+rate,  the  average  regular  and  overtime  hours  that  Membrino 
+worked, and the amount of gross backpay.  Respondent did not 
+state  the  basis  for  its  assertion  that  Membrino’s  regular  wage 
+rate would only have been $18/hour during the backpay period, 
+nor did it state the basis for its calculations of Membrino’s av-
+erage regular and overtime hours worked per calendar quarter, 
+or  its  calculation  of  gross  backpay.    Once  again,  Respondent 
+should have stated the bases for its calculations in its answer, 
+since issues such as Membrino’s wage rate and hours worked 
+are  within  Respondent’s  knowledge.    See  Shenandoah  Coal 
+Co.,  312  NLRB  30,  31  (1993)  (granting  motion  for  partial 
+summary  judgment  regarding  the  amount  of  hourly  wage  in-
+creases  because  the  respondent did not propose  an  alternative 
+figure or state the basis for such a figure). 
+
+On  the  other  hand,  I  find  that  Respondent  satisfied  the  re-
+quirements  of  Board  Rule  102.56(b)–(c)  with  its  claim  that 
+gross backpay should account for the “difference in wages that 
+[Membrino]  would  have  earned  until  he  was  unavailable  for 
+work pursuant to [DOT] regulations.”  (GC Exh. 1(f), par. 3.)  
+The Board has held that a general denial is sufficient in a re-
+spondent’s answer when the respondent is addressing an issue 
+beyond  its  knowledge.    See  Urban  Constructors,  327  NLRB 
+1220,  1221  fn.  3  (2000).    That  is  precisely  the  situation  here 
+                                                          
+
+3 On  the  first  day  of  trial,  the  General  Counsel  revised  its  net 
+
+backpay figure to $107,929.  (GC Exh. 1(k).)
+
+4
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+regarding Membrino’s availability to work during the backpay 
+period  pursuant  to  DOT  regulations,  because  Respondent  did 
+not  have  access  to  records  that  (among  other  possible  areas) 
+would shed light on Membrino’s medical clearance to work and 
+the  validity  of  Membrino’s  CDL  during  the  backpay  period 
+until that information was disclosed at trial pursuant to subpoe-
+na.  Accordingly, I deny the General Counsel’s motion for par-
+tial summary judgment on this issue.   
+
+In sum, in light of the deficiencies in Respondent’s answer to 
+paragraphs 3 and 4 of the compliance specification, as well as 
+Respondent’s failure to explain adequately why it did not deny 
+the allegations in paragraphs 3 and 4 of the compliance specifi-
+cation in a manner consistent with Board Rule 102.56(b), I will 
+grant the General Counsel’s motion for partial summary judg-
+ment, and deem admitted as true the General Counsel’s allega-
+tions, on the following issues: 
+
+(i)    The  appropriate  formula  for  calculating  gross  backpay 
+(see GC Exh. 1(d), par. 3, but note that the gross backpay fig-
+ure remains subject to modification based on periods of time 
+that  Membrino  was  unavailable  to  work  pursuant  to  DOT 
+regulations);
+(ii)  The formulae for calculating regular and overtime earn-
+ings per calendar quarter (see GC Exhs. 4(b)–(c));
+(iii)  The average regular and overtime hours that Membrino 
+worked  in  the  three  quarters  before  he  was  discharged  (see 
+GC Exh. 1(d), pars. 4(d), (f); GC Exh. 1(g), pars. 4(e), (g)); 
+and
+(iv)  Membrino’s regular wage rate (see GC Exh. 1(d), par. 
+4(h).4
+
+See  Urban  Constructors,  327  NLRB  at  1220–1221  (granting 
+motion for summary judgment because the respondent’s answer 
+to the compliance specification gave no alternative wage rates, 
+backpay  periods,  or  gross  backpay  totals  even  though  those 
+issues  concerned  matters  within the  respondent’s  knowledge); 
+Structural Finishing, 296 NLRB 439, 440–441 (1989) (same).
+
+c. Paragraph 7—net backpay calculation
+
+In paragraph 7 of the amendment to the compliance specifi-
+cation,  the  General  Counsel  alleged  that  Respondent  would 
+make  whole  Membrino  as  required  by  the  Board’s  order  by 
+paying  $108,397.90,  plus  interest  compounded  daily  and  Re-
+spondent’s  share  of  FICA  contributions.    (GC  Exh.  1(g),  par. 
+7.)  Respondent offered a general denial to the General Coun-
+sel’s  net  backpay  calculations,  and  asserted  that  Membrino 
+would  be  made  whole  with  a  net  backpay  amount  of  $912.5  
+                                                          
+
+4 To the extent that Respondent raised affirmative defenses based on 
+these  aspects  of  pars.  3  and  4  of  its  answers  (with  the  exception  of 
+defenses based on Membrino’s alleged unavailability to work pursuant 
+to DOT regulations), I will also grant the General Counsel’s motion to 
+strike those defenses.
+
+5 Respondent also asserted that interest should not be compounded 
+daily,  and  that  the General  Counsel’s  net  backpay  figure  did  not  ac-
+count  for  Membrino’s  Federal,  State,  and  social  security  taxes  that 
+would  need  to  be  deducted.    (GC  Exh.  1(i),  par.  7.)    I  have  not  ad-
+dressed those portions of Respondent’s answer because I am bound to 
+follow the  Board’s  ruling  that  interest  on  any  backpay  owed  to 
+
+(GC Exh. 1(i), par. 7.)  The General Counsel asserts that Re-
+spondent  failed  to  supply  a  rationale  for  its  calculation of  net 
+backpay as $912.  While that point is valid, I nonetheless deny 
+the  General  Counsel’s  motion  for  summary  judgment  on  this 
+issue  because  the  amount  of  net  backpay  is  not  within  Re-
+spondent’s knowledge since net backpay is affected by (among 
+other things) Membrino’s interim earnings during the backpay 
+period.  Respondent’s general denial of the net backpay figure 
+in paragraph 7 of the amendment to the compliance specifica-
+tion was therefore sufficient under the Board’s case law.  See 
+Urban Constructors, 327 NLRB at 1221 fn. 3.
+
+Finally, I note that while I have granted portions of the Gen-
+eral Counsel’s motion for partial summary judgment, I will still 
+address those issues on the factual merits, which are discussed 
+below.  Turning, therefore, to the factual merits, on the entire 
+record,6 including my observation of the demeanor of the wit-
+                                                                                            
+Membrino    must  be  compounded  daily,  and  Respondent’s  arguments 
+about applicable taxes are not relevant to the compliance specification. 
+6 The trial transcripts and exhibits generally are accurate, but I make 
+the following transcript corrections to clarify the record: p. 7, L. 15: the 
+speaker was Mr. Horton; p. 301, L. 8: “self” should be “salt?”; p. 327, 
+L. 23: the speaker was Mr. Avakian; p. 328, L. 1: the speaker was Mr. 
+Avakian; p. 348,  L.  8: ”paid”  should  be  “applied”; p. 375,  L.  18:  the 
+speaker  was  Mr.  Avakian;  and  p.  661,  L.  14:  “redacted”  should  be 
+“rejected.” 
+
+I  note  that  on  November  20,  2013,  I  issued  an  order  directing  the 
+parties to file corrected versions of certain exhibits to redact personal 
+identifiable information and provide pages that were omitted.  Pursuant 
+to that order, the parties submitted the following corrected exhibits: GC 
+Exhs. 9, 25(a)–(b); R. Exhs. 16–19, 32, 34.  I have replaced the original 
+copies of those exhibits in my exhibit file with the corrected versions, 
+and I have placed the original copies in a sealed envelope in case they 
+are needed for review.  Since the electronic file still contains both the 
+original  and  corrected  exhibits,  I  recommend  that  the  Board  take  ap-
+propriate steps to ensure that the original exhibits in the electronic file 
+are handled in a way that will ensure they (and the personal identifica-
+tion information they contain) remain confidential.
+
+I also note that after reviewing the trial transcripts, I determined that 
+I prematurely ended a line of questioning during trial related to whether 
+Membrino’s  character  for  truthfulness  could  be  challenged  based  on 
+certain evidence under Rule 609 of the Federal Rules of Evidence.  (Tr. 
+392–394.)  Accordingly, on December 4, 2013, I issued an order direct-
+ing the General Counsel to provide information to complete the record 
+on that issue.  The General Counsel complied, and after reviewing the 
+supplemental information and arguments of the parties’,  I determined 
+(as explained in more detail in an order that I issued on December 19, 
+2013) that the information is not admissible under Rule 609 because of 
+the passage of time, the fact that any probative value of the evidence 
+does not substantially outweigh its prejudicial nature, and the fact that 
+Respondent did not provide reasonable written notice of its intent to use 
+Rule  609  evidence  such  that  the  General  Counsel  would  have  a  fair 
+opportunity to oppose the request.  (See FRE 609(b).)  I also found that 
+to the extent that Respondent might wish to use the proffered Rule 609 
+evidence  to  establish  that  Membrino  made  false  statements  on  job 
+applications to interim employers, I note that the evidence is cumula-
+tive and irrelevant in light of the admissions that Membrino made else-
+where in the record.  (See, e.g., R. Exh. 1, p. 7.)  The pleadings related 
+to  my  Rule  609  inquiry  are  part  of  the  record  in  this  case,  but  shall 
+remain under seal (except as needed for possible review on appeal or 
+for other valid purposes).  I also recommend that the Board take appro-
+priate steps to ensure that any pleadings in the electronic file that are 
+
+PESSOA CONSTRUCTION CO.
+
+5
+
+nesses,  and  after  considering  the  briefs  filed  by  the  General 
+Counsel and Respondent, I make the following
+
+FINDINGS OF FACT
+
+A. William Membrino—Background
+
+For the most part, William Membrino has worked as a com-
+mercial truckdriver since 1992 or 1993.  In connection with that 
+profession,  Membrino  obtained  a  class  A  commercial  drivers 
+license (CDL) that enabled him to drive a variety of commer-
+cial vehicles.  (Tr. 302–303.)
+In  2007,  Julio  Pessoa 
+
+(Respondent’s  owner)  asked 
+Membrino  to  return  to Respondent  (a  highway  construction 
+contractor and subcontractor) as one of its commercial drivers.7  
+Membrino  agreed,  and  joined  Respondent  in  June  2007,  as  a 
+salaried  truckdriver,  earning  $25  per  hour  and  maintaining  a 
+standard 40-hour workweek (with no overtime paid).  (Tr. 37, 
+564, 593, 736–737, 739; GC Exh. 27.)  In January 2008, how-
+ever, Membrino became an hourly employee, and thus was not 
+guaranteed a fixed number of work hours per week.  With the 
+new, hourly arrangement, Membrino earned $22 per hour, but 
+also earned time-and-a-half overtime pay for any hours that he 
+worked  above  the  standard  40-hour  workweek.8    (Tr.  37–38, 
+564, 739–740; GC Exh. 27.)  
+
+As a driver with a class A CDL, Membrino was authorized 
+to  drive  (and  did  drive)  a  variety  of  commercial  vehicles  for 
+Respondent,  including  the  following  vehicles  (among  others) 
+that could only be driven with a class A CDL: tractor trailers; 
+lowboys;9 and  flatbeds.    (Tr.  73–74,  420–421,  569–570,  606, 
+640–643, 645–646, 656, 735–738; GC Exhs. 20(b), 21, 23(a), 
+(c).)  Starting in March 2008, however, Respondent most often 
+asked Membrino to drive one of its dump trucks (truck 5067), 
+even though that vehicle only required a class B CDL.  (Tr. 74–
+78, 425, 428–430, 608–609; R. Exh. 2.)
+
+On  August  11,  2008,  a  Maryland  District  Court  judge  sus-
+pended  Membrino’s  CDL  because  he  failed  to  pay  a  fine.  
+Membrino’s CDL remained suspended until October 24, 2008.  
+(R.  Exh.  4.)    Nevertheless,  Membrino  continued  working  for 
+Respondent as a commercial truckdriver despite having a sus-
+pended CDL.  (GC Exh. 27.)  There is no reliable evidence that 
+Respondent  learned  that  Membrino’s  license  was  suspended 
+                                                                                            
+related to my Rule 609 inquiry are handled in a way that is comparable 
+to maintaining those documents under seal.
+
+Finally,  although  I  have  included  several  citations to  the  record  to 
+highlight particular testimony or exhibits, I emphasize that my findings 
+and conclusions are not based solely on those specific record citations, 
+but rather are based on my review and consideration of the entire record 
+for this case.
+
+7 Membrino also worked for Respondent from 2003 or 2004 to June 
+2006,  when  Membrino  took  a  job  with  another  employer.    (Tr.  639, 
+735.)
+
+8 To illustrate, if Membrino worked 45 hours in 1 week as a salaried 
+employee, he would only be paid for 40 hours at the $25 per hour rate.  
+By  contrast,  if  Membrino  worked  45  hours  in  1  week  as  an  hourly 
+employee, he would be paid for 40 hours at the regular $22 per hour 
+rate, and $33 per hour for the additional 5 hours of overtime.
+
+9 A lowboy is used to transport equipment from one jobsite to anoth-
+
+er.  (Tr. 606.)
+
+during  this  time  period.10    However,  when  Respondent  has 
+learned  that  other  drivers  on  its  payroll  had  suspended  CDLs 
+(e.g.,  for  failure  to  pay  child  support),  Respondent’s  practice 
+has been to prohibit those drivers from working until they re-
+solved the problems with their license.  (Tr. 144, 414–418, 444, 
+628.)
+
+B. October 23, 2008—Respondent Discharges Membrino 
+
+in Violation of the Act
+
+On  October  23,  2008,  Respondent  discharged  Membrino.  
+The Board has ruled that Respondent discharged Membrino for 
+discriminatory  reasons  (specifically,  because  of  Membrino’s 
+union  activities)  in  violation of  Section 8(a)(3)  and  (1)  of  the 
+Act.  Pessoa Construction Co., 356 NLRB No. 157, slip op. at 
+1, 8–9, 11 (2011).
+
+C. Membrino’s Job Searches, Unemployment 
+
+Benefits, and Illness
+
+1. October 2008 through March 2010—Membrino’s 
+search for employment and Membrino’s application 
+
+for unemployment benefits
+
+After  being  terminated  by  Respondent,  Membrino  experi-
+enced his first day of unemployment on October 24, 2008.  (Tr. 
+26.)  That same day, Membrino also began searching for a new 
+job, relying on sources such as the Washington Post, the inter-
+net, job listings at the State of Maryland unemployment agency, 
+job leads from family and friends, and occasional referrals from 
+the Union.  Membrino checked for jobs in the Washington, DC 
+area, in and around Jessup, Maryland, and occasionally in Vir-
+ginia.    (Tr.  157–158,  229–230,  250,  260–265,  276,  359–360, 
+383.)    Every  quarter,  Membrino  completed  and  submitted  a 
+“Claimant Expense and Search for Work Report” to the Board, 
+on which he listed multiple employers that he contacted to in-
+quire about and apply for job openings.11  (R. Exh. 1; see also 
+                                                          
+
+10 I do not credit Membrino’s testimony that he paid the fine “well in 
+advance” of October 24, 2008, the date that the suspension was lifted.  
+Membrino asserted that there must have been a delay in processing his 
+payment of the fine, but that testimony was speculative and uncorrobo-
+rated.  (Tr. 315–316.)
+
+I also do not credit Membrino’s assertion that Respondent knew his 
+CDL was suspended.  Membrino testified (without corroboration) that 
+he borrowed money from Pessoa to pay the fine underlying the suspen-
+sion.    Even  if  that  testimony  is  accurate,  it  does  not  follow  that  Re-
+spondent knew that Membrino’s CDL was suspended, or that Respond-
+ent  authorized  Membrino  to  drive  despite  having  a  suspended  CDL.  
+(Tr. 316–318.)   
+
+11 I credit Membrino’s testimony that he actually applied for a broad 
+variety of jobs when he could not secure a job as a truckdriver (includ-
+ing job applications that he did not list in his reports to the Board), but 
+still  had  trouble  finding  a  job  even  after  expanding  his  search.  
+Membrino  was  clear  and  forthright  in  explaining  that  he  was  in  dire 
+need of  employment because he lacked alternated sources of income, 
+and accordingly I have credited his testimony on this issue in full.  (Tr. 
+368–373, 380–381, 383, 391, 399.)
+
+I also credit Membrino’s testimony that he used a notebook to doc-
+ument  his  efforts  to  find  work,  but  lost  the  notebook  when  someone 
+broke  into  his  car.    Membrino’s  testimony  about  the  notebook  was 
+straightforward  and  plausible,  and  was  not  rebutted  by  any  evidence 
+that cast doubt on his explanation of what happened to the notebook.  
+(Tr. 220–224, 229–230, 381.)  
+
+6
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+ 
+
+Tr. 222–223.)  Despite these efforts, Membrino did not find a 
+job until April 2010.12
+
+In the same time period, Membrino also applied for unem-
+ployment compensation.  Initially, the State of Maryland denied 
+Membrino’s  application. 
+In  February  2009,  however, 
+Membrino won his appeal of the initial decision to deny bene-
+fits,  and  the  State  of  Maryland  awarded  him  unemployment 
+compensation  retroactive  to  October  26,  2008.    Thereafter, 
+Membrino was subject to, and complied with, the State of Mar-
+yland’s requirement that recipients of unemployment compen-
+sation  demonstrate  that  they  are  actively  searching  for  work.  
+Membrino’s  unemployment  benefits  ran  out  in  March  2010.  
+(Tr. 45, 157–158, 273, 552; R. Exh. 34.)
+
+2. November 3–25, 2008—Membrino unavailable 
+
+to work due to illness13
+
+On  November  3,  2008,  Membrino  went  to  the  emergency 
+room at Doctors Community Hospital because he was experi-
+encing chest pain and numbness in his arms.  Doctors Commu-
+nity  Hospital  medical  personnel  diagnosed  Membrino  with:
+angina  pectoris—unstable;  hypertension—malignant;  ischemic 
+heart disease—acute; and obesity.  (Tr. 163–164; GC Exh. 9, p. 
+1.)
+
+Later on November 3, Doctors Community Hospital person-
+nel  transferred  Membrino  to  Washington  Adventist  Hospital, 
+where he underwent a coronary angiography (a test to examine 
+a patient’s coronary arteries for possible blockage).  During the 
+procedure,  doctors  performed  a  percutaneous  coronary  inter-
+vention  (a/k/a  PCI  or  angioplasty)  and  placed  a  drug-eluting 
+(drug coated) stent in his circumflex artery, which was totally 
+occluded.  Another lesion was treated medically.  (GC Exh. 11; 
+Tr. 164, 166–167, 242–243.)
+
+On  November  4,  2008,  Membrino  was  discharged  from 
+Washington Adventist Hospital, with the direction to follow up 
+with a physician in 1–2 weeks, and the following restrictions: 
+no heavy lifting or bathing  for 2 weeks; and no driving for 2 
+days.    Membrino  was  also  prescribed  medication  to  address 
+(among other things) high blood pressure and cholesterol.  (GC 
+Exhs. 10–11; see also Tr. 168–169, 227–228.)  Membrino ad-
+mitted  to  the  Board  (on  his  quarterly  search  for  work  report) 
+that he was unable to work from November 3–25, 2008, due to 
+illness.  (R. Exh. 1, p. 1.)
+
+3. April 9–27, 2009—Membrino’s CDL suspended
+
+On April 9, 2009, a Maryland District Court judge suspended 
+Membrino’s CDL because Membrino failed to pay a fine.  The 
+                                                          
+
+12 On or about March 27, 2009, Membrino tried to start an auto sales 
+business  under  the  name  “Cee-Moni  Auto.”    Membrino  filed  a  trade 
+name  application  (for  a  $75  fee)  as part  of this business  venture,  but 
+abandoned  the  idea  because  he  did  not  have  a  physical  address  on 
+which to locate the business (one of the requirements for obtaining an 
+automobile dealer’s license).  Membrino did not earn any income from 
+the Cee-Moni Auto business venture.  (Tr. 160–163, 250–251; GC Exh. 
+8; see also R. Exh. 12 (noting that Cee-Moni Auto is still “active” as an 
+entity, but that status expires on March 27, 2014).)
+
+13 In reviewing and discussing the medical records in this section, I 
+took judicial notice of information on the National Institute of Health’s 
+website  (www.nlm.nih.gov/medlineplus/medlineplus.html)  regarding 
+the meaning of certain medical terms.     
+
+District  Court  judge  lifted  the  suspension  on  April  27,  2009.  
+(R.  Exh.  3  (initial  notice  of  possible  suspension  was  sent  on 
+March 17, 2009).)
+
+4. April 22, 2009—Membrino’s followup doctor visit
+
+On April 22, 2009, Membrino went to Baden Medical Ser-
+vices to follow up on his November 2008 hospital stay.14  Med-
+ical personnel refilled Membrino’s blood pressure and choles-
+terol medications (which he had stopped taking because he ran 
+out).    The  office  visit  was  otherwise  uneventful.15    (GC  Exh. 
+12; see also Tr. 172.)   
+
+D. April 2010—February 2013: Membrino’s 
+
+Interim Employment
+
+1. April 2010—Portable Storage of Maryland
+
+On  or  about  April  23,  2010,  Membrino applied  for  a  truck 
+driving  position  with  Portable  Storage  of  Maryland  (a/k/a 
+Smartbox), a  company that leases portable storage containers.  
+On  his  job  application,  Membrino  falsely  answered  “no”  to 
+questions  asking  whether  his  driver’s  license  had  ever  been 
+suspended or revoked, and whether he had a criminal record.16  
+(Tr. 333–334, 493–494, 497; R. Exh. 16; see also Tr. 175–176 
+(noting that Membrino learned of the job opening when he saw 
+a job listing in the Washington Post); R. Exh. 1, p. 7.))  
+
+In  connection  with  Membrino’s  job  application,  Portable 
+Storage required Membrino to complete a physical and a drug 
+test.    Membrino  passed  both  requirements,  and  on  April  23, 
+2010, received a  medical examiner’s certificate (a/k/a Depart-
+                                                          
+
+14 Membrino did not see a doctor at an earlier date (as had been rec-
+ommended, see GC Exh. 11, p. 2) because he did not have insurance or 
+sufficient funds to pay for a doctor’s office visit.  (Tr. 171, 244–245.)  
+Membrino  subsequently became  eligible  for  Medicaid,  and  thereafter 
+made an appointment at Baden Medical Services.  (Tr. 172.)
+
+15 Medical  records  from  Baden  Medical  Services  state  that 
+Membrino’s November 2008 hospital stay occurred after a myocardial 
+infarction (MI, or heart attack), but I do not give weight to those entries 
+because they  were based on Membrino’s own inaccurate report about 
+the  nature  of  his  hospital  stay.    Indeed,  Membrino  inaccurately  told 
+Baden  Medical  Services  medical  staff  that  he  had  a  coronary  artery 
+bypass  procedure  at  Washington  Adventist  Hospital,  when  no  such 
+procedure was noted in the discharge paperwork that Washington Ad-
+ventist Hospital prepared in November 2008.  (Compare GC Exh. 12, 
+pp. 2, 5 with GC Exh. 11; see also Tr. 174 (Membrino explained that he 
+told the doctor at Baden Medical Services that he had a bypass proce-
+dure because he (Membrino) “did not know the difference”), 248, 280–
+281.))  For similar reasons, I do not give weight to Membrino’s state-
+ments (made in two Board affidavits, and to a former coworker) that he 
+had  a  heart  attack  in  November  2008.    (See  Tr.  126–127,  241,  557.)  
+Membrino does not have medical training (see Tr. 175), and as a result 
+he  unintentionally  mischaracterized  the  nature  of  his  hospital  stay  on 
+multiple occasions. 
+
+In short, I find that the records that medical professionals at Doctors 
+Community Hospital and Washington Adventist Hospital prepared on 
+November  3–4,  2008,  regarding  Membrino’s  medical  condition  and 
+care (see GC Exhs. 9–11) to be the most reliable sources of information 
+regarding the nature of Membrino’s November 2008 hospital stay, and 
+I have accordingly relied on those documents to make the factual find-
+ings set forth herein.
+
+16 There is no evidence that Portable Storage took any adverse em-
+ployment action against Membrino because of false statements that he 
+made on his job application.
+
+PESSOA CONSTRUCTION CO.
+
+7
+
+ment of Transportation (DOT) card) in which the medical ex-
+aminer  certified  that  Membrino  was  qualified  to  work  as  a 
+commercial  driver.    The  temporary  DOT  card  that  Membrino 
+received was valid for 3 months (until July 23, 2010) instead of 
+a  longer  period  because  Membrino  had  high  blood  pressure 
+readings  that  would  require  some  followup.17    (Tr.  176–178; 
+GC Exh. 13.)
+
+On  or  about  April  27,  2010,  Portable  Storage  hired 
+Membrino as a commercial truckdriver.  Although he applied at 
+the  company’s  facility  in  Maryland,  the  company  asked 
+Membrino  to  work  out  of  one  of  its  warehouses  in  northern 
+Virginia.    Specifically,  Membrino  was  expected  to  pick  up  a 
+truck in Maryland, and then drive to northern Virginia, where 
+he would be available to deliver or pick up storage containers 
+to/from customers.  (Tr. 182–183.)
+
+After approximately 4 workdays, a Portable Storage manager 
+advised Membrino that the company was going to eliminate his 
+position  because  the  company  did  not  think  it  was  cost-
+effective for Membrino to be in northern Virginia all day since
+there was no guarantee that customers would need assistance at 
+that location.18  Membrino’s employment with Portable Storage 
+therefore  ended  on  April  30,  with  Membrino  earning  a  gross 
+income of $490.  (Tr. 183–184, 258–259; GC Exhs. 2, 32–33.)
+
+2. May 2010—Aggregate Industries
+
+On or about May 14, 2010, Membrino applied for a ready-
+mix  truck  driving  position  with  Aggregate  Industries  (Aggre-
+gate), a building materials company that provides “aggregates” 
+such  as  crushed  stone,  sand,  gravel,  ready-mixed  concrete, 
+recycled  concrete, and  asphalt.    On  his  job  application, 
+Membrino falsely answered “no” to a question asking whether 
+his  driver’s  license  had  ever  been  suspended  or  revoked,  and 
+also  falsely  stated  that  he  had  worked  as  the  self-employed 
+owner of Membrino Trucking from October 2008 through Feb-
+ruary  2010.19    (Tr.  184,  187,  671;  GC  Exh.  14  (noting  that 
+Membrino applied for the position after seeing it listed in the 
+Washington Post).)  
+                                                          
+
+17 At  the  time,  Membrino  did not  have  the  money  to  purchase  his 
+
+blood pressure medication.  (Tr. 178.)
+
+18 Respondent attempted to establish (via Christina Norwood, a rep-
+resentative from Portable Storage) that Membrino voluntarily quit his 
+job at Portable Storage by simply failing to report for work.  I do not 
+credit that testimony because Norwood was not Membrino’s supervisor 
+and did not have personal knowledge about the circumstances that led 
+to the end of Membrino’s employment, and no business records were 
+offered  (e.g.,  from  Membrino’s  personnel  file)  to  support  proposition 
+that Membrino voluntarily stopped reporting for work.  (Tr. 502–508.)  
+Membrino’s  explanation  for  how  his  employment  at  Portable  Storage 
+ended therefore was not rebutted by any reliable evidence. 
+
+19 Membrino did own and operate Membrino Trucking from 1998 to 
+2002, but admitted that he did not do so from 2008 to 2010 as stated on 
+the  job  application  that  he  submitted  to  Aggregate  Industries.  
+Membrino  explained  that  he  listed  this  false  self-employment  infor-
+mation  on  his  application  because  he  thought  his  application  would 
+look better if it did not include gaps in his employment.  Membrino did 
+not earn any money from Membrino Trucking from October 24, 2008, 
+to February 8, 2013.  (Tr. 159, 186.)
+
+There is no evidence that Aggregate Industries took any adverse em-
+ployment action against Membrino because of false statements that he 
+made on his job application.  (Tr. 706.)
+
+Aggregate required Membrino to complete a DOT physical 
+before commencing work with the company.  Membrino passed 
+his DOT physical, and accordingly, on May 27, 2010, received 
+a  DOT  card  in  which  the  medical  examiner  certified  that 
+Membrino was qualified to work as a commercial driver.  The 
+temporary  DOT  card  that  Membrino  received  was  valid  for  3
+months  (until  August  27,  2010)  because  Membrino’s  blood 
+pressure  continued  to  be  high.    (Tr.  188–190;  GC  Exh.  15.)  
+Membrino  also  passed  a  preemployment  physical  that  Aggre-
+gate directed him to complete.  (Tr. 188, 190.)
+
+On or about June 2, 2010, Membrino began working for Ag-
+gregate.    (See  Tr.  106;  R. Exh. 1.)   His  employment  with  the 
+company,  however,  was  not  incident-free.    For  example,  on 
+August 31, Aggregate suspended Membrino for 2 days without 
+pay  because  he  reported  to  work  without a  valid  DOT  card 
+(since his temporary card expired on August 27).  (GC Exh. 16 
+(Membrino’s suspension applied to September 2–3, 2010); see 
+also Tr. 191–193, 254, 686 (noting that Membrino subsequently 
+obtained  a  new,  3-month  DOT  card  and  returned  to  work).)20  
+In addition, on October 11, Membrino received a verbal warn-
+ing because he left a truck water valve on and thereby made a 
+load of concrete too wet, and because he cleaned dry concrete 
+off of his truck chute in a location at the facility that was not 
+appropriate for that task.  (Tr. 194–195; GC Exh. 17.)
+
+On  August  30,  2010,  a  Maryland  District  Court  judge  sus-
+pended Membrino’s CDL because of child support noncompli-
+ance.    The  District  Court  judge  lifted  the  suspension  on  De-
+cember 2, 2010.21  (Tr. 311; R. Exh. 3 (initial notice of possible 
+suspension was sent on August 9, 2010).)
+                                                          
+
+20 The parties did not introduce any additional DOT cards into evi-
+dence  for  subsequent  portions  of  the  backpay  period.    Membrino  ex-
+plained, however, that he threw away his copies of expired DOT cards 
+because  if  he  accidentally  showed  an  expired  DOT  card  to  a  DOT 
+officer, the officer could prohibit Membrino from driving for 24 hours 
+and also  impose  a  fine.    (Tr.  181–182, 255.)    In  addition,  I  note  that 
+there is no evidence that Membrino failed any DOT physicals required 
+by his subsequent employers, or that Membrino worked for any subse-
+quent employer without a valid DOT card.  (See Tr. 79, 130 (the Gen-
+eral Counsel’s compliance officer recalled seeing DOT cards that were 
+valid through 2012); see also Tr. 190–192 (indicating that Respondent 
+never  required  Membrino  to  complete  a  DOT  physical  or  provide  a 
+valid  DOT  card);  Tr.  520–522  (Respondent  did  not  normally  check 
+DOT  cards  to  ensure  they  were  up  to  date,  and  instead  relied  on  its 
+drivers to keep track of their records).)
+
+21 Membrino testified that when he learned that his license was sus-
+pended, he notified a supervisor at Aggregate, and that supervisor did 
+not allow him to drive.  (Tr. 313.)  I do not credit Membrino’s  testimo-
+ny on this point.  Membrino admitted that he had trouble remembering 
+whether  he  notified  Aggregate  that  his  license  was  suspended,  and 
+Membrino’s testimony that he notified a supervisor at Aggregate about 
+the  issue  is  not  corroborated  by  any  documentation  (such  as 
+Membrino’s termination letter) from his personnel file from Aggregate.  
+I also do not credit Membrino’s testimony that the judge in his child 
+support case authorized him to drive for work purposes notwithstanding 
+having a suspended license.  At best, Membrino’s uncorroborated tes-
+timony only established that the judge in his child support case author-
+ized  him to  drive  for  work  purposes  on a  suspended  license in  2005, 
+well  before  the  suspensions  at  issue  here  occurred.    There  is  no  evi-
+dence that the purported authorization to drive on a suspended license 
+extended to any suspension occurring after 2005, nor is there evidence 
+
+8
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+Ultimately,  Aggregate  decided  to  terminate  Membrino  on 
+December 17, 2010, stating the following rationale for its deci-
+sion:
+
+Dear Mr. Membrino:
+We  regret  to  inform  you  that  the  Company  has  decided  to 
+terminate your employment effective immediately.  We have 
+come  to  this  difficult  decision  because  you  have  repeatedly 
+violated our work rules with regard to safety and cooperation 
+since starting with the Company in June of this year.
+On December 17, 2010, you backed your mixer truck into a 
+parking  space  at  the  plant,  pinning  your  concrete  chute  be-
+tween a tree and the truck, damaging the chute bearings.  You 
+also left the chute down, which is further violation of standard 
+operating procedures.  A few days before, you had a flat spot 
+on the rollers, which would have been avoided had you con-
+ducted a proper pre-trip inspection.  The importance of con-
+ducting a pre-trip and looking for this particular problem was 
+addressed  during  driver  meetings  as  recently  as  last  month.  
+These  incidents  highlight  our  concerns  with  regard  to  your 
+ability to operate safely.
+On July 29, 2010 your load of concrete was rejected by the 
+ICC for being too wet.  Had you followed proper plant operat-
+ing procedures, this would not have occurred.
+On August 31, 2010, you received a two day suspension for 
+reporting to  work  without a  valid  DOT physical  card.  Fol-
+lowing your return, you failed to report to work or to call for a 
+scheduled night pour, which the Dispatch office had discussed 
+with you just hours before.
+In October 2010, you received two violations of work rules; 
+one for chipping concrete into the grass at the plant, instead of 
+in the designated washout/disposal area and the other for fail-
+ure to close the water valve on your mixer truck, which re-
+sulted in a wet load.
+The incidents outlined above suggest that you have failed to 
+meet  the  essential  functions  of  the  job  within  your  first  six 
+months of employment.  We regret that this decision had to be 
+made, but feel it is in the best interest of the Company.  Please 
+return  all  company-issued items to  your immediate  supervi-
+sor.  You are not eligible for rehire.
+Sincerely,
+Terri L. Coomaraswamy
+Human Resources Generalist
+Mid-Atlantic Region
+
+(R.  Exh.  5;  see  also  Tr.  680–682,  686.)    Membrino  generally 
+did  not  dispute  that  the  incidents  that  Aggregate  listed  in  the 
+termination letter occurred as described, but he did assert that 
+the  incidents  were  unintentional.    (Tr.  195–202.)    Nothing  in 
+                                                                                            
+that Aggregate (or Respondent, for that matter) would have permitted 
+Membrino  to  drive  had  it  been  aware  that  Membrino’s  license  was 
+suspended  (even  if  the  suspension  was  due  to  child  support  issues). 
+(See  Tr.  378,  386–387;  see  also  Tr.  678–679  (noting  that  Aggregate 
+would not permit an employee to drive for them if the employee had 
+unresolved issues regarding a suspended CDL).)
+
+the evidentiary record contradicts Membrino’s characterization 
+of the incidents as unintentional or accidental.
+
+Membrino  earned  a  gross  income  of  $19,361.62  from  his 
+employment with Aggregate.  (GC Exh. 2; see also Tr. 60 (not-
+ing that Membrino’s W-2 form for Aggregate uses the company 
+name “Bardon,” but lists the same address).)  
+
+3. December 2010—Cylos, Inc.
+
+On December 20, 2010 (the next business day after he was 
+terminated  by  Aggregate),  Membrino  applied  for  a  ready-mix 
+truck  driving  position  with  Cylos,  Inc  (Cylos),  a  construction 
+and ready-mix concrete company.  In completing his job appli-
+cation,  Membrino  did  not  respond  to  a  question  that  asked 
+whether  any  driver’s  license  had  ever  been  suspended  or  re-
+voked, and falsely answered “no” to a question asking if he had 
+a  criminal  record.22    Cylos  sent  Membrino  on  a  delivery  run 
+with another driver to demonstrate that he (Membrino) could do 
+the  job,  and  when  Membrino  returned,  Cylos  hired  him,  with 
+Membrino’s  official  starting  date  being  December  21.    (Tr. 
+203–204, 342, 463–464, 471; R. Exh. 18; see also R. Exh. 1, p. 
+7.)
+
+On or about December 29, 2010, Membrino was at the Cylos 
+facility in a standby driver capacity when the dispatcher asked 
+him to take a spare truck out for a delivery.  When Membrino 
+returned, the dispatcher advised Membrino that he should clean 
+the truck and leave for the day because there was no more work 
+available.  Membrino complied, but advised the dispatcher that 
+he was not able to drain the truck’s water system because of a 
+problem with the water pressure.  At the dispatcher’s direction, 
+Membrino  brought  the  truck  to  Cylos’  mechanic,  advised  the 
+mechanic of the water drainage problem, and then left after the 
+mechanic  indicated  that  he  would  take  care  of  the  problem.  
+When  Membrino  reported  for  work  the  following  day,  Cylos 
+personnel called him to the office and informed him that he was 
+being terminated because he left water in the truck lines over-
+night,  which  caused  the  truck  water  lines  to  freeze  and  the 
+turnoff  valve  to  crack.23    (Tr.  205–206,  255–258;  R.  Exh.  7 
+(noting that truck “down time” was required to repair the dam-
+age).)  Membrino earned a gross income of $519.40 from his 
+employment  with  Cylos  ($431.20  of  that  amount  was  paid  in 
+2010, and $88.20 was paid in 2011).  (GC Exh. 2.)
+
+4. January/February 2011—Membrino unemployed
+
+In  January  2011,  Membrino  applied  for  unemployment  in-
+surance  benefits.    In  response  to  Membrino’s  application  for 
+benefits, Cylos indicated that Membrino worked to the best of 
+his ability, but was terminated because he was not qualified for 
+the  job.    Membrino  ultimately  was  denied  benefits,  however, 
+                                                          
+
+22 Susan  Steadman,  Cylos’  office  manager,  noticed  that  Membrino 
+did not answer the question about driver’s  license suspensions on his 
+job application, but did not raise the issue before Membrino was termi-
+nated.  (Tr. 474, 476.)  There is no evidence that Cylos took adverse 
+employment action against Membrino based on the content of his job 
+application.
+
+23 I have credited Membrino’s explanation of the events that led to 
+his termination by Cylos.  Membrino’s account was essentially unrebut-
+ted, because the Cylos representative who testified did not have person-
+al knowledge of the incident.  (See Tr. 479–480, 481–483.) 
+
+PESSOA CONSTRUCTION CO.
+
+9
+
+because he exhausted his benefits at an earlier date.  (Tr. 206, 
+484–487; GC Exhs. 30–31.)  
+
+Membrino also searched for a new job, using (among other 
+sources) the Washington Post and tips from friends and family 
+to find leads on available jobs.  Membrino’s quarterly report to 
+the Board indicates that Membrino submitted multiple job ap-
+plications in the January to March 2011 time period.  (Tr. 206, 
+259–263; R. Exh. 1.)
+
+5. February 2011—A, D & C Management Company
+
+On or about February 25, 2011, Membrino started working 
+as  a  part-time,  temporary  commercial  driver  with  A,  D  &  C 
+Management  Company  (A,  D  &  C),  a  construction  company.  
+Membrino  worked  for  A,  D  &  C  (earning  a  gross  income  of 
+$6966) until he voluntarily decided to take a position with an-
+other company (Reddy Ice, discussed below) in hopes that he 
+would be assigned more hours of work.  (Tr. 206–209, 232; GC 
+Exhs. 2, 18; see also Tr. 210 (noting that as hoped, Membrino 
+did in fact receive more work hours at Reddy Ice than he was 
+getting at A, D & C).)
+
+On May 31, 2011, a Maryland District Court judge suspend-
+ed Membrino’s CDL because of child support noncompliance.  
+The District Court judge lifted the suspension on July 11, 2011.  
+(Tr.  312;  R.  Exh. 3  (initial notice  of  possible  suspension  was 
+sent on May 9, 2011).)
+
+6. June 2011—Reddy Ice
+
+Membrino  began  working  for  Reddy  Ice  as  a  tractor-trailer 
+driver  (transporting  loads  of  ice)  on  or  about  June  1,  2011.  
+Membrino  did  not  take  any  time  off  between  leaving  his  job 
+with A D & C and starting his job at Reddy Ice (on a seasonal 
+basis).    On  his  job  application,  Membrino  falsely  answered 
+“no” to questions asking whether his driver’s license had ever 
+been  suspended  or  revoked,  and  whether  he  had  a  criminal 
+record.    Membrino  also  falsely  asserted  that  he  worked  for 
+Membrino Trucking from December 2008 to December 2010.  
+(Tr.  209–210,  345;  R.  Exh.  19;  see  also  Tr.  159,  239 
+(Membrino admitted that Membrino Trucking ceased all opera-
+tions in 2002); R. Exh. 1, p. 7.)  There is no evidence that Red-
+dy Ice took any adverse employment action against Membrino 
+because of false statements that he made on his job application.  
+While working for Reddy Ice, Membrino received an inter-
+view  for  a  job  with  the  Washington  Suburban  Sanitary  Com-
+mission (WSSC), a company that he contacted about job open-
+ings in January 2011.24  WSSC subsequently offered Membrino 
+a job, with a start date of August 1, 2011.  (Tr. 211.)  
+                                                          
+
+24 On his job application to WSSC, Membrino falsely stated that he 
+was  self-employed  as  the  owner  and  operator  of  Membrino  Delivery 
+Service  from  December  2008  to  May  2010.  Membrino  also  falsely: 
+stated that he left Aggregate because work was slow (instead of stating 
+that he was terminated); did not list Cylos as one of his former employ-
+ers; and answered “no” to a question asking whether he had a criminal 
+record.  Membrino explained that he made these false statements and 
+omissions because he desperately needed work.  (Tr. 212, 349–355; R. 
+Exh.  20;  see  also  Tr.  159,  239  (Membrino  admitted  that  Membrino 
+Trucking ceased all operations in 2002); R. Exh. 1, p. 7.)  There is no 
+evidence  that  WSSC  took  any  adverse  employment  action  against 
+Membrino because of false statements or omissions in his job applica-
+tion.
+
+When Membrino notified Reddy Ice that he would be leav-
+ing  for  a  new  job,  Reddy  Ice  assigned  Membrino’s  route  to 
+another  driver,  and  made  Membrino  a  standby  driver  that 
+would  only  cover  “open”  routes  that  became  available  (and 
+return  home  without  working  if  all  routes  were  covered).  
+Membrino worked in the new, standby driver role for approxi-
+mately  4–5  days,  and  then  voluntarily  resigned  since  he  was 
+slated to begin a new job with WSSC.  Membrino accordingly 
+did not work for approximately a week-and-a-half until his new 
+job began.  (Tr. 211, 270–271.)  Membrino earned a gross in-
+come of $6,426.83 from his employment with Reddy Ice.  (GC 
+Exh. 2.)
+
+7. August 2011 to the present—Washington Suburban 
+
+Sanitary Commission (WSSC)
+
+Membrino began working for WSSC on August 1, 2011, and 
+
+has worked for WSSC continuously since that date.  (Tr. 212.)
+
+During  Membrino’s  employment  with  WSSC,  a  Maryland 
+District  Court  judge  suspended  Membrino’s  CDL  on  the  fol-
+lowing dates:
+
+September  27,  2011  to  March  1,  2012  (suspension  due  to 
+child support noncompliance)
+December 12, 2012 to January 30, 2013 (suspension due to 
+“failure to comply”)
+
+(Tr. 312; R. Exh. 3 (initial notices of possible suspension were 
+sent  on  September  7,  2011,  and  November  19,  2012,  respec-
+tively).)  There is no reliable evidence that Membrino notified 
+WSSC about these suspensions, or that WSSC took any adverse 
+employment  action  against  Membrino  because  of  the  suspen-
+sions.25  
+
+Membrino earned a gross income of $13,131.69 in 2011, and 
+$39,377.74  in  2012,  from  his  employment  with  WSSC.    (GC 
+Exh.  2.)    In  addition,  Membrino  earned  a  gross  income  of 
+$7099 from his work for WSSC in the first quarter of 2013, but 
+the General Counsel concedes that Membrino is not owed any 
+net  backpay  for  that  quarter.    (See  GC  Exh.  1(k)  (calculating 
+Membrino’s gross backpay and net backpay for the first quarter 
+of 2013 as $5,080.90 and $0, respectively).)
+
+E. Pessoa’s Workload and Work force During the 
+
+Backpay Period (2008–2013)
+
+In  the  months  before  and  during  the  backpay  period,  Re-
+spondent was struggling financially because of the poor econ-
+omy.  Indeed, in the summer of 2008, Respondent laid off sev-
+eral  employees,  although  notably,  Membrino  survived  those 
+                                                          
+
+25 Membrino  testified  that  during  his  summer  2011  job  interview 
+with WSSC, he provided a copy of his driving record (which indicated 
+that his license was suspended for child support) and a letter from the 
+child  support  office  stating  that  Membrino’s  “driving  privilege  with 
+them  was  fine.”    (Tr.  353–354.)    No  such  letter  was  introduced  into 
+evidence at trial, however, and in any event, Membrino’s May 31, 2011 
+CDL suspension was resolved before he started working for WSSC.
+
+Membrino  also  testified  that  if he  learned  that  his  CDL  was  sus-
+pended,  then  he  would  let  his  employers  know.    Membrino  did  not 
+identify  an  occasion  where  he  notified  WSSC  that his CDL  was  sus-
+pended.  (Tr. 310, 313–314.)  
+
+10
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+layoffs.26  (Tr. 593, 595, 600–601, 648; see also R. 38 (showing 
+that Respondent turned a profit in 2008 and 2011, but lost mon-
+ey in 2009 and 2010); Tr. 622–623 (same).)  
+
+Membrino’s discharge in 2008, as well as employee N.C.’s 
+discharge in the same month,27 left Respondent with four CDL 
+drivers: employees B.L., J.M., J.R., and P.S.  Respondent, how-
+ever,  did  not  stand  pat  with  that  number  of  drivers.    Instead, 
+Respondent made the following additional hires that generally 
+maintained its complement of drivers at five or higher:
+
+CDL Driver Personnel Changes from November 1, 2008, 
+
+to February 8, 2013
+
+Employee 
+Name
+J.G.
+
+Hire Date
+9/9/2011
+
+Departure 
+Date
+
+Total 
+Drivers 
+on 
+Staff28
+
+4
+
+(R. Exh. 26; see also 609–610, 651–655.)
+
+Respondent’s CDL drivers also  continued to work a steady 
+amount of hours during the backpay period.  As indicated in the 
+chart below, although hourly drivers (like Membrino) saw their 
+schedules  fluctuate  from  week  to  week,  none  of  the  hourly 
+employees saw their average hours worked change significantly 
+during the backpay period.  
+
+Average 
+Hours 
+Worked 
+per 
+Week in 
+2008
+34.2 reg; 
+4.7 OT
+n/a
+
+28.5 reg; 
+2.5 OT30
+n/a
+
+35 reg; 
+2.4 OT
+n/a
+
+Average 
+Hours 
+Worked 
+per 
+Week in 
+2009
+n/a
+
+34.3 reg; 
+2.3 OT
+28.3 reg; 
+1.1 OT
+35.9 reg; 
+4.5 OT
+33.2 reg; 
+2.1 OT
+31.1 reg; 
+0.6 OT
+
+Average 
+Hours 
+Worked 
+per 
+Week in 
+2010
+n/a
+
+Average 
+Hours 
+Worked 
+per 
+Week in 
+2011
+n/a
+
+n/a
+
+n/a
+
+34.7 reg; 
+3.0 OT
+35.9 reg; 
+7.0 OT
+31.1 reg; 
+0.4 OT
+
+n/a
+
+n/a
+
+n/a31
+
+35.9 reg; 
+5.9 OT
+n/a
+
+Employee
+Membrino
+
+B.B.
+
+B.L.
+
+L.P
+
+J.R.
+
+R.S.
+
+(Tr. 50–51, 96–99; GC Exhs. 5, 7; R. Exh. 33; see also Tr. 543 
+(noting that in the summer of 2009, employee B.L. had fewer 
+hours because he was “seeing a doctor quite a bit” because of a 
+“medical issue”).)32  There is no evidence that Respondent laid 
+off any CDL drivers during the backpay period.  (Tr. 49.)
+F. February 8, 2013—Pessoa Offers Membrino 
+
+Reinstatement
+
+On February 8, 2013, Respondent made a valid offer to rein-
+state Membrino to his truck driving position at the Company.  
+Membrino declined the offer.  (Tr. 26.)
+                                                          
+
+30 Employee B.L. was paid as a salaried employee from June 27 to 
+November 21, 2008.  I accordingly excluded those weeks when calcu-
+lating employee B.L.’s average hours worked for 2008.  (Tr. 537, 542; 
+R. Exhs. 29, 33; see also Tr. 577 (explaining that a salaried employee is 
+paid for 40 hours every week).)
+
+31 The General Counsel calculated the average hours that employee 
+L.P.  worked  for  the  first half  of 2011, but  I  have  not  relied  on  those 
+calculations because (as noted above) employee L.P. began working in 
+the office part time in February 2011, and the General Counsel included 
+those “office” hours in its calculations.  (See GC Exh. 7; fn. 29, supra.) 
+32 I excluded employees P.S. and J.M. from the chart because they 
+are salaried employees.  (Tr. 577 (salaried employees are paid for 40 
+hours every week); GC Exh. 34 (employee P.S. work hours show that 
+he worked 40 hours every week, and thus was a salaried employee); Tr. 
+35 (same).)
+
+Departure 
+Date
+
+12/19/2008
+
+6/5/2009
+8/28/2009
+9/4/2009
+9/11/2009
+
+11/6/2009
+
+12/23/2010
+06/10/201129
+
+Hire Date
+11/17/2008
+
+1/5/2009
+1/13/2009
+5/18/2009
+
+9/16/2009
+10/7/2009
+
+12/10/2009
+9/13/2010
+
+7/20/2011
+8/16/2011
+
+Employee 
+Name
+M.R.
+M.R.
+B.B.
+L.P.
+G.V.
+G.V.
+B.L.
+J.M.
+B.B.
+R.S.
+A.T.
+A.T.
+J.S.
+I.C.
+R.S.
+L.P.
+R.P.
+F.A.
+I.C.
+J.S.
+F.A.
+
+Total 
+Drivers 
+on 
+Staff28
+
+5
+4
+5
+6
+7
+6
+5
+4
+3
+4
+5
+4
+5
+6
+5
+4
+5
+6
+5
+4
+3
+
+9/2/2011
+9/9/2011
+9/9/2011
+                                                          
+
+26 Respondent also asked some of its office staff to accept pay cuts in 
+the summer of 2008.  Respondent, however, did not ask Membrino to 
+take a pay cut.  (Tr. 648–649, 752.)  I also note that in October 2010, 
+Respondent  raised  employee  R.S.’s  hourly  rate  from  $18  to  $22  per 
+hour, which was consistent with Respondent’s normal practice of giv-
+ing raises when drivers are dependable and doing a good job.  (Tr. 551, 
+615–616 (noting that employee R.S. had a class A CDL but primarily 
+drove a dump truck for Respondent); R. Exh. 32.) 
+
+27 Employee N.C. was only employed by Respondent from October 
+
+6–31, 2008.  (R. Exh. 26.)
+
+28 This figure includes employees B.L., J.M., J.R., and P.S., each of 
+whom were hired before the backpay period began, until those employ-
+ees left the company.
+
+29 On or about June 10, 2011, employee L.P. stopped working as a 
+truckdriver for Respondent, and instead took a position in Respondent’s 
+office.    Employee  L.P.  returned  to  a  truck  driving  position  for  Re-
+spondent on or about April 13, 2012.  (Tr. 435, 443–444, 528–529; R. 
+Exh.  30  (showing  the  corresponding  changes  in  L.P.’s  wages and 
+hours);  see  also  Tr.  545;  R.  Exh.  30  (showing  that between  February 
+and  June  2011,  employee  L.P.  periodically  worked  in  the  office,  but 
+primarily worked as a driver).)
+
+PESSOA CONSTRUCTION CO.
+
+11
+
+Applicable Legal Standards
+A. Compliance Specifications
+
+It is well established that the finding of an unfair labor prac-
+tice  is  presumptive  proof  that  some  backpay  is  owed.    The 
+Lorge School, 355 NLRB 558, 360 (2010); Laborers Local 158 
+(Worthy Bros.), 301 NLRB 35, 36 (1991), enfd. 952 F.2d 1393 
+(3d Cir.  1991).    The  General  Counsel’s  burden  in a  backpay 
+proceeding is limited to showing the gross backpay due to each 
+discriminatee.  The General Counsel has discretion in selecting 
+a formula that will closely approximate backpay, and may use 
+any  formula  that  approximates  what  the  discriminatee would 
+have  earned  had  he  or  she not  been  discriminated  against,  as 
+long as the formula is not unreasonable or arbitrary under the 
+circumstances.  The Lorge School, 355 NLRB at 360; Perfor-
+mance  Friction  Corp.,  335  NLRB  1117,  1117  (2001)  (noting 
+that  where  the  Board  is  presented  with  conflicting  backpay 
+formulas, the Board must determine the most accurate method 
+for determining backpay).
+
+Once the General Counsel meets its burden of showing the 
+gross  backpay  owed,  the  burden  shifts  to  the  respondent  to 
+establish facts that negate or mitigate its liability.  St. George 
+Warehouse, 351 NLRB 961, 963 (2007); Parts Depot, Inc., 348 
+NLRB  152,  153  (2006),  enfd.  260  Fed.  Appx.  607  (4th Cir. 
+2008).    Any  uncertainty  about  how  much  backpay  should  be 
+awarded 
+the 
+discriminatee’s favor, and against the respondent whose viola-
+tion caused the uncertainty.  The Lorge School, 355 NLRB at 
+360.
+
+to  a  discriminatee  should  be  resolved 
+
+in 
+
+B. Credibility Findings
+
+A credibility determination may rely on a variety of factors, 
+including  the  context  of  the  witness’ testimony,  the  witness’
+demeanor, the weight of the respective evidence, established or 
+admitted facts, inherent probabilities, and reasonable inferences 
+that may be drawn from the record as a whole.  Relco Locomo-
+tives, Inc., 358 NLRB No. 37, slip op. at 12 (2012), enfd. 734 
+F.3d 764 (8th Cir. 2013); see also Roosevelt Memorial Medical 
+Center, 348 NLRB 1016, 1022 (2006) (noting that an ALJ may 
+draw an adverse inference from a party’s failure to call a wit-
+ness who may reasonably be assumed to be favorably disposed 
+to a party, and who could reasonably be expected to corroborate 
+its version of events, particularly when the witness is the par-
+ty’s  agent).    Credibility  findings  need  not  be  all-or-nothing 
+propositions—indeed, nothing is more common in all kinds of 
+judicial decisions than to believe some, but not all, of a witness’
+testimony.  Relco Locomotives, 358 NLRB No. 37, slip op. at 
+12.  My credibility findings are set forth above in the findings 
+of fact for this decision.
+
+Analysis
+
+A. The Backpay Period
+
+As noted above, I resolved this issue when I decided to grant 
+the General Counsel’s motion for partial summary judgment, as 
+well  as  the  General  Counsel’s  motion  to  strike.    However,  in 
+the interest of making a complete record, I have analyzed the 
+factual and legal merits of this issue below.
+
+The  backpay  period  for  Membrino  runs  from  October  24, 
+2008,  through  February  8,  2013  (i.e.,  from  the  day  after  Re-
+spondent unlawfully discharged Membrino to the day that Re-
+spondent made a valid offer to reinstate Membrino).  (Findings 
+of Fact (FOF), secs. B, F.)
+
+B. Gross Backpay Calculation
+
+I resolved many of the issues related to gross backpay when, 
+as noted above, I decided to grant the General Counsel’s mo-
+tion  for  partial  summary  judgment,  as  well  as  the  General 
+Counsel’s motion to strike.  However, in the interest of making 
+a complete record, I have analyzed the factual and legal merits 
+of Membrino’s gross backpay below.
+
+The General Counsel calculates that Membrino would have 
+earned  gross  wages  in  the  amount  of  $199,285.90  had  he 
+worked for Respondent during the backpay period.  To calcu-
+late  that  figure,  the  General  Counsel  determined  the  average 
+number of regular and overtime  hours that Membrino worked 
+in the first three quarters of 2008 (444.6 regular and 61.1 over-
+time  hours  per  quarter),  and  projected  that  Membrino  would 
+have continued to work that amount of hours for each quarter 
+during  the  backpay  period.33    (Tr.  27–28,  38–42,  44,  92;  GC 
+Exhs.  1(k),  6,  27;  see  also  Casehandling  Manual,  Section 
+10540.2 (describing the backpay formula based on the average
+hours/earnings of the discriminatee before the unlawful action); 
+see  also  FOF,  sec.  A  (noting  that  Membrino  initially  was  a 
+salaried employee, but became an hourly employee in January 
+2008).)  
+
+Respondent  raises  three  primary  objections  to  the  General 
+Counsel’s calculations, none of which hit the mark.  First, Re-
+spondent implicitly questioned whether Membrino would have 
+worked continuously for Respondent during the backpay peri-
+od.34    (R.  Br.  at  54–57.)    As  noted  above,  I  do  not  find  that 
+                                                          
+
+33 I  do  not  find  merit  to  Respondent’s  argument  that  the  General 
+Counsel should have deducted certain Federal holidays from each quar-
+ter (instead of assuming that each quarter included 13 full workweeks).  
+(R.  Br.  at  58–60.)    As  the  General  Counsel’s  compliance  officer  ob-
+served,  no  adjustment  is  necessary  for  intervening  holidays  because 
+those  nonwork  days  are  incorporated  into  the  average  hours  that 
+Membrino worked in 2008.  (Tr. 41.)
+
+34 I  note  that  Respondent  did  not  explicitly  proffer  an  alternative 
+backpay formula (such as a formula based on the hours and earnings of 
+comparable or replacement employees) that it believed would be more 
+accurate than the formula that the General Counsel used.  I also note 
+that during the compliance investigation, the General Counsel’s ability 
+to consider alternative formulae for gross backpay was hampered by the 
+fact  that  Respondent  only  provided  the  General  Counsel  with 
+Membrino’s employee ledger, and not the ledgers of other drivers who 
+worked for Respondent during the backpay period.  (Tr. 139–140; see 
+also Tr. 35–36, 93–95 (noting that Respondent provided the employee 
+ledgers  for  other  CDL  drivers  on  the  first  day  of  the  hearing  in  this 
+matter, and that the General Counsel considered the additional materi-
+als at that time and determined that the other drivers were not compara-
+ble  employees  to  Membrino).)    In  any  event,  to  the  extent  that  Re-
+spondent  suggested  that  the  General  Counsel  should  have  calculated 
+backpay based on the hours worked by replacement employee R.S., I 
+do not find that such a formula would be appropriate since employee 
+R.S. only worked for Respondent during a portion of the backpay peri-
+od (from September 2009 through December 2010—see FOF, sec/ E), 
+and the evidentiary record does not show that Membrino’s work with 
+
+12
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+argument to be persuasive.  The evidentiary record shows that 
+after  Respondent  discharged  Membrino,  Respondent  hired  a 
+series of new drivers to maintain its complement of drivers at 
+five  or  higher  (where  it  would  have  been  had  Membrino  not 
+been unlawfully discharged).  None of the hourly drivers that 
+Respondent employed saw their average hours worked change 
+significantly during the backpay period.  (FOF, sec. E; see also 
+Tr. 28.)
+
+Second,  Respondent  questioned  whether  Membrino  would 
+have  continued  to  be  paid  at  the  same  hourly  wage  rate 
+throughout the backpay period, or rather would have been ex-
+pected to accept a pay cut during the backpay period (e.g., be-
+cause  he  would  have  spent  a  fair  amount  of  time  driving  a 
+dump truck, which only required a class B license).  (R. Br. at 
+60.)  That argument, however, is undermined by the fact that: 
+Respondent did  not  ask  Membrino to  accept  a pay  cut  before 
+Membrino  was  discharged  in  2008,  even  though  Membrino 
+primarily drove one of Respondent’s dump trucks from March 
+2008  onward,  and  Respondent  obtained  pay  cuts  from  other 
+employees in the same time period; and Respondent gave em-
+ployee  R.S.  a  raise  in  October  2010  to  $22  per  hour  even 
+though employee R.S. also primarily only drove a dump truck.  
+(FOF, secs. A, E.)  Based on those facts, I infer that Respondent 
+would have continued to pay Membrino his $22/hour rate dur-
+ing  the  backpay  period  because  Respondent  valued  (among 
+other  things)  the  fact  that  Membrino  had  a  good  track  record 
+with the Company and had a class A CDL that enabled him to 
+drive a variety of Respondent’s vehicles when needed.
+
+Third, Respondent contends that the General Counsel should 
+have calculated Membrino’s average hours in 2008 based on 39 
+weeks of work, instead of 37.  (See R. Br. at 9–10.)  The Gen-
+eral Counsel used the 37-week figure because it excluded a 2-
+week period that Membrino did not work in July 2008 because 
+he was on a vacation that the General Counsel determined was 
+an extraordinary, nonrecurring event.  (Tr. 38–40, 62–69, 238–
+239 (Membrino did not take a similar vacation after commenc-
+ing work for Respondent in June 2007, or at any point during 
+the backpay period); GC Exh. 6; see also Casehandling Manual, 
+Section 10540.2 (explaining that calculations of average earn-
+ings  or  hours  generally  should  exclude  time  periods  in  which 
+extraordinary,  nonrecurring  events  temporarily  affect  earn-
+ings/hours).)  Although Respondent contests the General Coun-
+sel’s  decision  to  exclude  that  2-week  period,  I  find  that  the 
+evidentiary record supports that General Counsel’s determina-
+tion  that  the  2-week  vacation  was  essentially  an  anomaly  be-
+cause there is no evidence that  Membrino ever took a similar 
+vacation before or during the backpay period.  It was therefore 
+reasonable  for  the  General  Counsel  to  exclude  that  2-week 
+vacation  from  its calculation  of  the  number  of  weeks  that 
+Membrino worked before he was discharged in 2008.35
+                                                                                            
+Respondent (had he not been discharged unlawfully) would have been 
+limited to the period of time that employee R.S. worked.  
+
+35 During  the  trial, Respondent  presented  evidence  that  established 
+that Membrino’s CDL was suspended from August 11 to October 24, 
+2008, while Membrino worked for Respondent.  There is no evidence, 
+however,  that  Respondent  learned,  or  would  have  learned,  about  this 
+issue with Membrino’s CDL during the backpay period.  Perhaps more 
+important, there is no evidence that Respondent would have terminated 
+
+In sum, I credit the General Counsel’s gross backpay calcu-
+lation and the facts in the evidentiary record (some of which are 
+referenced above) on which the General Counsel’s calculation 
+is  based.    The  General  Counsel  used  a  reasonable  formula  to 
+calculate  what  Membrino  would  have  earned  had  Respondent 
+not  discharged  him  unlawfully,  and  thus  I  have  accepted  the 
+General Counsel’s calculation that Membrino’s gross backpay 
+figure is $199,285.90.
+
+C. Membrino’s Interim Earnings and Efforts 
+
+to Mitigate Backpay
+
+With the gross backpay figure established, the burden shifts 
+to Respondent to establish facts that negate or mitigate its lia-
+bility,  with  the  caveat  that  any  uncertainty  will  be  resolved 
+against Respondent, since its unlawful action against Membrino 
+caused the uncertainty.
+
+As a preliminary matter, the General Counsel acknowledges 
+that Membrino worked six jobs during the backpay period that 
+produced interim earnings from the second quarter of 2010 to 
+the end of the backpay period.36  (FOF, sec. D.)  Based on those 
+                                                                                            
+Membrino  had  it  learned  that  Membrino’s  CDL  was  suspended.    In-
+stead,  it  is  clear  that  Respondent  at  most  would  have  suspended 
+Membrino until he cleared up the problems with his license.  (FOF, sec. 
+A.)  Thus, there is no basis for terminating backpay based on the fact 
+that Membrino worked for Respondent while he had a suspended CDL.  
+See First Transit, Inc., 350 NLRB 825, 829 (2007) (explaining that if 
+an employer learns that an employee engaged in misconduct that would 
+have  caused  the  employer  to  discharge  any  employee,  then  reinstate-
+ment is not available and backpay is terminated as of the day that the 
+employer  learned of the misconduct); id. (finding that employee mis-
+conduct  that  the  employer  discovered  would  not  change  the  backpay 
+award  because  the  employer  learned  of  the  misconduct  after  the 
+backpay period ended).
+
+I do not find that Membrino’s CDL suspension in 2008 affects the 
+General Counsel’s gross backpay calculation, because that calculation 
+is  based  on  a  reasonable  projection  of  the  number  of  hours  that 
+Membrino  would  have  worked  for  Respondent  during  the  backpay 
+period  (using  the  average  hours  that  Membrino  actually  worked  for 
+Respondent  in  2008,  irrespective  of  any  misconduct  that  Respondent 
+did not know about).  To the extent, however, that Membrino’s CDL
+was suspended during the backpay period, I address how those suspen-
+sions affect the net backpay figure later in this decision.
+
+36 The evidentiary record does not support a finding that Membrino 
+willfully  concealed  other  interim  earnings  (such  as  earnings  from  al-
+leged  self-employment)  during  the  backpay  period.    Membrino  only 
+had  earnings  from  the  six  jobs  discussed  in  the  findings  of  fact;  alt-
+hough  Membrino  contemplated  opening  an  auto  sales  business  (Cee-
+Moni Auto) during the backpay period, he abandoned the idea and did 
+not earn any money from it.  Further, although Membrino stated on job 
+applications 
+that  he  worked  for  “Membrino  Trucking”  and/or 
+“Membrino Delivery Service” during the backpay period, the eviden-
+tiary record  establishes that those job entries on Membrino’s applica-
+tions were false (Membrino listed them with the hope that the lack of 
+“gaps”  in  his  job history  would  increase  his  chances  of  being  hired).  
+(FOF, secs. C(1), D.)
+
+The evidentiary record also does not support Respondent’s argument 
+that  Membrino  willfully  failed  to  report  his  earnings  from  Portable 
+Storage and Reddy Ice to the Board.  (See R. Br. at 84–85.)  Although 
+Membrino did not report those jobs to the Board on his quarterly search 
+for work reports (see R. Exh. 1), Respondent did not demonstrate, and 
+thus  I  do  not  find,  that  Membrino’s  failure  to  report  those  jobs  was 
+willful  or  part  of  a  scheme  for  unjustified  personal  gain.    See 
+
+PESSOA CONSTRUCTION CO.
+
+13
+
+quarterly  interim  earnings,  and  on  the  fact  that  Membrino’s 
+interim earnings in the first quarter of 2013 exceeded his gross 
+backpay for that quarter (meaning that no net backpay is owed 
+for  that  quarter),  the  General  Counsel  calculated  the  total  net 
+backpay figure as $107,929.  (GC Exh. 1(k).)  I now turn to the 
+question of whether Respondent demonstrated (based on any of 
+the theories that it proffered) that the net backpay figure should 
+be reduced to an amount lower than that proposed by the Gen-
+eral Counsel.
+
+1. Was Membrino unavailable to work due to 
+
+health-related reasons?
+
+The  record  is  clear  that  on  November  3,  2008,  Membrino 
+experienced chest pain and numbness in his arms that led to an 
+overnight  hospital  stay  that  included  a  coronary  angiography 
+and angioplasty procedure to address a blockage in one of his 
+coronary arteries.  (FOF, sec. C(2).)  The parties disagree, how-
+ever,  about how  long  Membrino  was  unavailable  to  work  be-
+cause  of  that  procedure  and  the  underlying  medical  problems 
+that led to it.  The General Counsel maintains that Membrino 
+was  only  unavailable  to  work  from  November  3–28,  2008, 
+based  on Membrino  representations  on  one  of  his  “search  for 
+work” reports to the Board.  (GC Br. at 30; FOF, sec. C(2) (not-
+ing  that  Membrino  reported  that  he  was  unavailable  to  work 
+from November 3–25, 2008, due to illness).)   Respondent, by 
+contrast,  maintains  that  Membrino  was  unavailable  from  No-
+vember  3,  2008,  to April  23,  2010  (the  day  that  Membrino 
+passed  his  DOT  physical  before  starting  his  first  interim  job 
+with Portable Storage).  (R. Br. at 78; see also FOF, sec. D(1).)  
+To resolve this dispute, I first address what medical conditions 
+Membrino  encountered  in November  2008,  and  then  address 
+the extent to which those conditions rendered Membrino una-
+vailable to work.
+
+a. What medical conditions did Membrino have in 
+
+November 2008?
+
+Initially,  the  parties  disagree  about  what  actually  befell 
+Membrino  in  November  2008.    Although  Respondent  seizes 
+upon Membrino’s own characterizations of what led to his hos-
+pital stay (a  “heart attack” or a  coronary bypass procedure), I 
+did  not  credit  those  descriptions  because  Membrino  is  not  a 
+medical  professional  and  his  descriptions are  not  consistent 
+with the medical records that hospital personnel prepared at the 
+time  of  Membrino’s  hospital  stay.    Instead,  as  noted  above,  I 
+found that Membrino was diagnosed with angina pectoris (un-
+stable),  hypertension  (malignant), 
+ischemic  heart  disease 
+(acute), and obesity, and I further found that medical personnel 
+treated  those  conditions  by:  (a)  performing  a  coronary  angi-
+ography  and  angioplasty,  and  placing  a  stent  in  one  of 
+                                                                                            
+Grosvenor Resort, 350 NLRB 1197, 1198, 1236–1237 (2007) (discuss-
+ing American Navigation Co., 268 NLRB 426 (1983), and explaining 
+that  a  showing  of  willful  perfidy  and  deception  is  required  to  justify 
+reducing a backpay award because of earnings that were not reported to 
+the Board).   To the contrary, Membrino was generally diligent in re-
+porting his interim employment, and stood little to gain in concealing 
+the  brief  periods  that  he  worked  for  Portable  Storage  and  Reddy  Ice 
+(which produced interim earnings of $490 and $6,426.83, respectively).  
+I  therefore  deny  Respondent’s  request  that  I  reduce  Membrino’s 
+backpay award under this theory.       
+
+Membrino’s coronary arteries; and (b) prescribing medication.  
+(FOF. sec. C(2), (4).)
+
+b. How long was Membrino unavailable to work due to
+
+his November 2008 medical problems?
+
+The parties agree, and I find, that the Federal Motor Carrier 
+Safety  Administration  (FMCSA)  of  the  U.S.  Department  of 
+Transportation has issued regulations that establish the physical 
+qualifications and medical examinations that an individual must 
+satisfy to drive a commercial vehicle safely.  Generally speak-
+ing, to operate a commercial motor vehicle, an individual must 
+meet  the  physical  qualification  requirements  set  forth  in  the 
+regulations  (unless  certain  exceptions  apply),  and  also  must 
+pass  a  medical  examination  (the  “DOT  physical”  discussed 
+above in the findings of fact) performed by a medical examiner 
+listed on the National Registry of Certified Medical Examiners.  
+See  49  CFR  §  391.41  (discussing  physical  qualifications  for 
+drivers); 49 CFR § 391.43 (discussing the medical examination 
+require-ment); see also 49 CFR § 391.45(b)(1), (c) (explaining 
+that a driver must complete a medical examination if he or she 
+has not been certified within the preceding 24 months, or if the 
+driver’s  ability  to  perform  his  or  her  normal  duties  has  been 
+impaired by a physical or mental injury or disease); see also R. 
+Exh.  21  (the  General  Counsel’s  compliance  officer  acknowl-
+edged that Membrino needed to complete a medical examina-
+tion to operate a commercial vehicle)).   
+
+that  Membrino 
+
+Respondent  contends 
+
+ineligible  for 
+backpay  from  November  3,  2008,  to  April  23,  2010,  because 
+Membrino  did  not  take  or  pass  a  DOT  physical
+in  that 
+timeframe to establish that he could operate a commercial mo-
+tor vehicle safely after his November 2008 hospital stay.37  (R. 
+                                                          
+
+is 
+
+37
+
+In  connection  with  this  argument,  Respondent  implies  that 
+Membrino  had  a  medical  condition  that  precluded  him  from  being 
+physically qualified to drive under FMCSA regulations.  (See R. Br. at 
+73.)    Specifically,  Respondent  cited  to  49  CFR  §  391.41(b),  which 
+states, in pertinent part, that:
+
+(b)    A  person  is  physically  qualified  to  drive  a  commercial  motor 
+
+vehicle if that person
+
+. . . .
+(4) Has no current clinical diagnosis of myocardial infarction, angina 
+pectoris, coronary insufficiency, thrombosis, or any other cardiovascu-
+lar disease of a variety known to be accompanied by syncope, dyspnea, 
+collapse, or congestive cardiac failure.
+
+. . . .
+
+(6) Has no current clinical diagnosis of high blood pressure likely to 
+interfere  with  his/her  ability  to  operate  a  commercial  motor  vehicle 
+safely
+
+. . . .
+
+(7) Has no established medical history or clinical diagnosis of rheu-
+matic, arthritic, orthopedic, muscular, neuromuscular, or vascular dis-
+ease which interferes with his/her ability to control and operate a com-
+mercial motor vehicle safely
+
+The  evidentiary  record,  however,  does  not  show  that  any  medical 
+professional  (much  less  a  medical  examiner  who  performed  a  DOT 
+physical) determined that Membrino: has a current clinical diagnosis of 
+
+14
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+Br. at 78.)  That argument fails because the evidentiary record 
+shows that neither Respondent nor potential interim employers 
+(such  as  Portable  Storage  and  Aggregate)  required  Membrino 
+to present a current DOT card as a precondition to considering 
+him  for  vacant  CDL  positions.    Instead,  potential  employers 
+allowed Membrino to apply for vacant CDL positions, and then 
+sent him for a DOT physical only as a final step to fulfill before 
+starting work.  Membrino complied with that procedure when 
+asked to do so, and passed his DOT physicals when they were 
+required.  (FOF, sec. D(1)–(2).)  Since there is no evidence of a 
+period  of  time  where  Membrino  would not  have  been  able  to 
+pass a DOT physical if requested (apart from November 3–28, 
+2008, for which the General Counsel requested no backpay due 
+to Membrino’s illness), I reject Respondent’s request to toll the 
+backpay period on that basis.38
+
+c. Membrino’s August 2010 suspension for having an
+
+expired DOT card
+
+Notwithstanding  my  analysis  above,  I  do  find  that  the 
+backpay period should be tolled from August 30 through Sep-
+tember  3,  2010, because  Membrino  allowed  his  DOT  card  to 
+expire while he was employed by  Aggregate.  (See FOF, sec.
+D(2).)    Although  Aggregate  only  suspended  Membrino  for  2
+days for his failure to obtain a new DOT card, I do not find it 
+equitable to require Respondent to pay Membrino backpay for a 
+time  period  when  FMCSA  regulations  prohibited  Membrino 
+from  working  because  his  DOT  card  was  expired.39    At  the 
+                                                                                            
+angina pectoris or cardiovascular disease that is accompanied by syn-
+cope,  dyspnea,  collapse  or  congestive  cardiac  failure;  or 
+that 
+Membrino’s high blood pressure or vascular disease interferes with his 
+ability to control and operate a motor vehicle safely.   (See  FOF, sec. 
+C(2)  (noting  that  Washington  Adventist  Hospital  personnel  only  di-
+rected  Membrino  to  refrain  from  driving  for  2  days),  C(4),  D(1)–(2); 
+see also 49 CFR § 391.43 (noting that DOT medical examiners must 
+evaluate  the  driver’s  heart  and  blood  pressure,  and  note  whether  any 
+history of cardiovascular disease is accompanied by syncope, dyspnea 
+or collapse).) 
+
+38 Respondent attempted to draw support from the ALJ’s decision in 
+First Transit, Inc., 352 NLRB 896 (2008), but that decision is distin-
+guishable.    In  First  Transit,  the  ALJ  terminated  the  discriminatee’s 
+backpay period as of the date that the discriminatee suffered a stroke.  
+The record in that case, however, showed that the discriminatee avoid-
+ed obtaining any type of medical certification that he could drive de-
+spite  suffering  a  stroke,  and  also  showed  that  the  discriminatee  still 
+displayed stroke-related limitations at the time of trial.  Id. at 901–902 
+(noting 
+law  and  federal  regulations,  the 
+discriminatee was subject to being evaluated to determine whether he 
+remained competent to drive a motor vehicle after his stroke, but con-
+cealed  his  medical  condition  from  state  and  federal  authorities);  see 
+also id. at 896 fn. 2 (the parties did not appeal this aspect of the ALJ’s 
+decision).  Membrino did not engage in that type of misconduct here—
+instead, he submitted to DOT physicals when requested as a precursor 
+to starting a new job, and passed those physicals. 
+
+that  under  California 
+
+39 I have considered the fact that Respondent may have unwittingly 
+allowed  Membrino  to  drive  with  an  expired  DOT  card  because  Re-
+spondent did not check DOT cards to ensure that they were current and 
+valid.    That  fact  does  not  determine  the  outcome  here,  however,  be-
+cause  the  fact  remains  that,  consistent  with  FMCSA  regulations,  Re-
+spondent  expected  its  drivers  to  maintain  current  DOT  cards.    (See 
+FOF, sec. D(2).)  Since Respondent expected its drivers to comply with 
+FMCSA  regulations  regarding  DOT  cards  (and  the  medical  examina-
+
+same time, however, I will not grant Respondent an offset for 
+any  interim  earnings  that  Membrino  accrued  from  August  30 
+through  September 3,  2010,  because  Respondent  should  not 
+receive a windfall offset for earnings that Membrino brought in 
+while the backpay period was tolled.
+
+2. Should the backpay period be tolled when 
+
+Membrino’s CDL was suspended?
+
+As  one  would  expect,  FMCSA  regulations  prohibit  CDL 
+drivers  who  have  been  “disqualified”  from  operating  a  com-
+mercial motor vehicle.  49 CFR § 391.15(a).  Regarding CDL 
+drivers who have been disqualified because they have lost their 
+driving privileges, the FMCSA has stated as follows:
+
+A driver is disqualified for the duration of the driver’s loss of 
+his/her  privilege  to  operate  a  commercial  motor  vehicle  on 
+public highways, either temporarily or permanently, by reason 
+of the revocation, suspension, withdrawal, or denial of an op-
+erator’s  license, permit,  or  privilege,  until  that  operator’s  li-
+cense, permit, or privilege is restored by the authority that re-
+voked, suspended, withdrew, or denied it.
+
+49 CFR § 391.15(b)(1).
+
+Relying  on  these  FMCSA  regulations,  Respondent  argues 
+that the backpay period should be tolled during each period of 
+time  when  Membrino’s  CDL  was  suspended.    I  find  merit  to 
+Respondent’s argument.  Simply put, Membrino had an obliga-
+tion to maintain a current and valid CDL to operate a commer-
+cial motor vehicle.  Despite that obligation, Membrino repeat-
+edly  failed  to  respond  to  notices  from  the  Maryland  District 
+Court  that  he  risked  having  his  CDL  suspended  (e.g.,  due  to 
+failing to pay a fine, or failing to pay child support), and thus 
+repeatedly  allowed  that  court  to  suspend  his  CDL  for  weeks 
+(and  sometimes  months)  at  a  time.40    Indeed,  as  noted  in  the 
+findings  of  fact,  Membrino’s  CDL  was  suspended  during  the 
+backpay period at the following times:
+                                                                                            
+tions  that  come  with  them),  I  find  that  Respondent  does  not  owe 
+backpay during periods when FMCSA regulations made it unlawful for 
+Membrino to work as a CDL driver because his DOT card expired. 
+
+I emphasize that Membrino allowing his DOT card to expire when 
+he was gainfully employed as a CDL driver is a different circumstance 
+than Membrino applying for jobs without a valid DOT card in-hand (an 
+issue  that  I  discussed  in  sec.  1(b),  above).    Nothing  in  the  FMCSA 
+required Membrino to pass a DOT physical as a precondition to apply-
+ing for CDL jobs.
+
+40 There was some evidence presented at trial that Membrino did not 
+receive mail in a timely manner (or consistently) because he stayed in a 
+variety of locations and used the home addresses of certain relatives as 
+his mailing addresses.  (See, e.g., Tr. 388–390.)  Regardless, I find that 
+Membrino  was  obligated  to  ensure  that  he  received  correspondence 
+(and particularly correspondence from courts of law) in a timely man-
+ner, and I further find that Membrino is charged with any adverse con-
+sequences (including CDL suspensions) that resulted from his failure to 
+provide the courts with a reliable mailing address.
+
+PESSOA CONSTRUCTION CO.
+
+15
+
+Notice of Pos-
+sible Suspen-
+sion Mailed
+March 17, 2009
+August 9, 2010
+
+CDL Suspen-
+sion Ends
+April 27, 2009
+December 2, 
+2010
+July 11, 2011
+March 1, 2012
+
+CDL Suspen-
+sion Begins
+April 9, 2009
+August 30, 
+2010
+May 31, 2011
+September 27, 
+2011
+December 12, 
+2012
+
+Length 
+of Suspen-
+sion (week-
+days)
+
+12
+68
+
+May 9, 2011
+September 7, 
+2011
+November 19, 
+2012
+(FOF, secs. C(3), D(2), (5), and (7); see also R. Exh. 3.)41  
+
+January 30, 
+2013
+
+29
+112
+
+35
+
+As stated in the FMCSA regulations, I find that Membrino
+was disqualified from working as a CDL driver during each of 
+the time periods when his CDL was suspended.  I also find that 
+Membrino is not eligible for backpay for the times that his CDL 
+was suspended—the record is clear that Respondent would not 
+have  allowed  Membrino  to  work  either  as  a  driver  or  in  a 
+nondriving  capacity  while  his  CDL  was  suspended  (see  FOF, 
+sec.  A),  and  thus  it  follows  that  Respondent  does  not  owe 
+backpay  for  periods  that  Membrino  had  a  suspended  CDL.42  
+See  Cliffstar Transportation  Co.,  311  NLRB  152,  157  (1993) 
+(finding that because the discriminatee was unavailable to work 
+as  a  driver  because  his  driver’s  license  was  suspended,  and 
+because the evidentiary record did not show that the employer 
+was obligated to offer the discriminatee some type of alterna-
+tive  employment  when  the  discriminatee  could  not  drive,  the 
+discriminatee was not eligible for backpay for the period when 
+his license was suspended); see also NLRB v. Browne, 890 F.2d 
+605,  608–609  (2d Cir.  1989)  (finding  that  a  discriminatee 
+whose driver’s license  was suspended because he did not pay 
+traffic summonses or insure his vehicle voluntarily forfeited not 
+only his driving privileges, but also his eligibility for backpay 
+at  a  driver’s  rate).    To  the  extent  that  Membrino  had  interim 
+earnings during periods when he had a suspended CDL, I will 
+not  give  Respondent  an  offset  for  those  earnings  because  to 
+grant  an  offset  under  those  circumstances  would  afford  Re-
+spondent an unnecessary windfall.
+
+3. Would Respondent have laid off Membrino during 
+
+the backpay period?
+
+As noted above, I resolved this issue when I decided to grant 
+the General Counsel’s motion for partial summary judgment, as 
+well  as  the  General  Counsel’s  motion  to  strike.    However,  in 
+the interest of making a complete record, I have analyzed the 
+                                                          
+
+41 I do not accept Respondent’s calculations of the number of days 
+that  Membrino  was  unavailable  to  work  due  to  CDL  suspensions.  
+Respondent included Saturdays in its count of “unavailable” days (see 
+R. Br. at 71), but there is no basis in the evidentiary record for me to 
+find that Membrino’s workweek with Respondent customarily included 
+Saturdays (or Sundays).  
+
+42 The  General  Counsel’s  compliance  officer  candidly  admitted  at 
+trial that Membrino would not be entitled to backpay for periods that 
+his CDL was suspended if Respondent had a practice of prohibiting its 
+drivers  from  working  under  those  circumstances.    (Tr.  80–81.)    The 
+evidentiary  record  establishes  that  the  scenario  that  the  compliance 
+officer identified applies in this case.  (See FOF, sec. A.)
+
+factual  and  legal  merits  of  Respondent’s  layoff  argument  be-
+low.
+
+The Board has held that a respondent may limit its backpay 
+liability by  showing that an employee  who  was discharged or 
+laid off for unlawful reasons would have been laid off for law-
+ful  reasons  at  a  later  date.    However,  the  respondent  has  the 
+burden of proving with certainty when the discriminatee would 
+have been laid off had there been no discrimination.  Weldun 
+International, Inc., 340 NLRB 666, 674 (2003).  
+
+In  this  case,  Respondent  suggests  that  the  backpay  period 
+should  end  on  an  unspecified  date  in  fall  2008  because  Re-
+spondent would have laid off Membrino for legitimate reasons 
+(lack of work due to the poor economy) at that time.  (See R. 
+Br.  at  14,  54–57.)    I  find  that  Respondent  failed  to  meet  its 
+burden  in  proving  that  theory.    Although  Respondent  made 
+general  points  about  the  poor  economy  and  its  effect  on  Re-
+spondent’s  amount  of  work,  it  did  not  establish  that  it  would 
+have laid off Membrino due to lack of work, or establish pre-
+cisely when that layoff would have occurred.  Instead, contrary 
+to Respondent’s theory, the evidentiary record shows that Re-
+spondent  retained  Membrino  despite  laying  off  a  significant 
+number of employees in 2008, and further shows that Respond-
+ent hired additional CDL drivers shortly after Membrino’s dis-
+charge to generally maintain its complement of drivers at five 
+or  higher  (where  it  would have  been  had  Membrino  not been 
+discharged  unlawfully).    (FOF,  sec.  E.)    In  light  of  that  evi-
+dence, I find that there is no basis for me to conclude that Re-
+spondent  would  have  laid  off  Membrino  before  February  8, 
+2013 (the date that Respondent offered to reinstate Membrino).
+
+4. Was Membrino’s job search adequate?
+
+“Longstanding remedial principles establish that backpay is 
+not available to a discriminatee who has failed to seek interim 
+employment and thus incurred a willful loss of earnings.”  St. 
+George  Warehouse,  351  NLRB  at  963. 
+  Thus,  “[a] 
+discriminatee must make reasonable efforts during the backpay 
+period to seek and hold interim employment.  This is known as 
+the  discriminatee’s  obligation  to  mitigate.    A  discriminatee  is 
+not due backpay for any period within the backpay period dur-
+ing which it is determined that he or she failed to make a rea-
+sonable effort to mitigate[.]”  Id. (quoting NLRB Casehandling 
+Manual, Part Three, Compliance Sec. 10558.1).
+
+To  assert,  as  a  defense  to  backpay  liability,  that  a 
+discriminatee  conducted  an  inadequate  job  search  and  thus 
+willfully failed to mitigate, a respondent has the initial burden 
+of  presenting  evidence  showing  that  there  were  suitable  and 
+substantially equivalent jobs available in the relevant geograph-
+ic area for an individual with the discriminatee’s qualifications.  
+St  George  Warehouse,  351  NLRB  at  963–964.    The  burden 
+then shifts to the General Counsel to present evidence concern-
+ing the discriminatee’s job search.  Once the General Counsel 
+satisfies that burden of production, the respondent has the ulti-
+mate burden of proving that the discriminatee did not mitigate 
+damages  by  using  reasonable  diligence  in  seeking  alternate 
+employment.  Id. at 964.  Notably, the test for mitigation is not 
+measured by a discriminatee’s success in gaining employment, 
+but rather by the efforts made to seek work.  Lorge School, 355 
+NLRB No. 94, slip op. at 3 (2010); see also id. at 3–4 (explain-
+
+16
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+ing that the reasonableness of a discriminatee’s search for work 
+should  be  evaluated  in  light  of  all  of  the  circumstances,  and 
+over the backpay period as a whole).  
+
+Turning,  then,  to  the  facts  at  hand,  I  find  that  Respondent 
+met  its  initial  burden  regarding  the  adequacy  of  Membrino’s 
+search  for  work  because  Membrino  admitted  that  there  were 
+(and  that  he  applied  for)  suitable  and  substantially  equivalent 
+CDL driver positions available in the relevant geographic area 
+during the backpay period.  I also find that the General Counsel 
+met  its  burden  to  produce  evidence  about  Membrino’s  job 
+search,  because  Membrino  testified  credibly  and  extensively 
+about: his efforts to find alternate employment; the job search 
+requirements that he had to meet to qualify for unemployment 
+compensation  in  the  State  of  Maryland  (at  least  until  March 
+2010,  when  Membrino  exhausted  his  unemployment  bene-
+fits);43 the  quarterly  reports  that  he (Membrino)  submitted  to 
+the General Counsel (and that were admitted into evidence) to 
+document some of the numerous job openings that he pursued 
+during the backpay period;44 and, of course, the six jobs that he 
+actually obtained during the backpay period (the last of which 
+Membrino has held since August 2011).  (FOF, secs. C(1), D.) 
+Given the considerable evidence about Membrino’s efforts to 
+find work throughout the backpay period, Respondent fell well 
+short of meeting its ultimate burden of proving that Membrino 
+did  not  use  reasonable  diligence  in  seeking  alternate  employ-
+ment. 
+  Although  Respondent  correctly  pointed  out  that 
+Membrino  made  false  statements  on  some  of  his  job  applica-
+tions  (see  R.  Br.  at  49–53),  Respondent  did  not  present  any 
+evidence that those false statements prevented Membrino from 
+obtaining or retaining employment during the backpay period.  
+Similarly,  Respondent  failed  to  show  that  Membrino’s  job 
+search  was  unreasonably  narrow  or  limited  in  any  respect.  
+Accordingly, I reject Respondent’s argument that Membrino’s 
+job search was inadequate, and decline to adjust Respondent’s 
+backpay liability on that basis.
+                                                          
+
+43 The Board has held that the receipt of unemployment compensa-
+tion under the applicable eligibility rules for such benefits constitutes 
+prima  facie  evidence  of  a  reasonable  search  for  interim  employment.  
+Taylor Machine Products, Inc., 338 NLRB 831, 832 (2003), enfd. 98 
+Fed.  Appx.  424  (6th  Cir.  2004).    In  its  posttrial  brief  at  61–63,  Re-
+spondent makes much of the fact that Membrino did not begin receiv-
+ing  unemployment  benefits  until  February  2009  (approximately  4 
+months into the backpay period), but other evidence in the record (in-
+cluding Membrino’s testimony and the reports that he submitted to the 
+Board  about his  efforts  to  find  work)  establishes  that Membrino  dili-
+gently searched for work between October 2008 and February 2009.  
+
+44 Respondent faults Membrino for not having the notebook that he 
+used to keep track of job inquiries and applications during the backpay 
+period.    I  do  not  find  that  issue  to  warrant  any  adjustment  to 
+Membrino’s  backpay  award.    Membrino  credibly  explained  that  the 
+notebook was stolen (along with other items) when someone broke in 
+to Membrino’s car.  And, in any event, discriminatees do not have an 
+obligation  to  keep  original  documentation  of  their  job  searches,  and 
+discriminatees  are  not  disqualified  from  backpay  because  of  poor 
+recordkeeping.  Lorge School, 355 NLRB No. 94, slip op. at 4 & fn. 6.
+
+5. Did Membrino unreasonably quit any 
+
+interim jobs?
+
+It  is  well  established  that  when  a  discriminatee  voluntarily 
+quits interim employment, the burden shifts from the respond-
+ent to the General Counsel to show that the decision to quit was 
+reasonable.  First Transit, Inc., 350 NLRB 825, 826 (2007).  If 
+the decision to quit was unreasonable, then the respondent may 
+(depending  on  what  happened  during  the  rest  of  the  backpay 
+period) be entitled to an offset for the interim earnings that the 
+discriminatee would have earned had he or she not quit the job 
+in question.  Id. at 827; see also Grosvenor Resort, 350 NLRB 
+1197, 1201 (2007).
+
+Respondent asserts that the backpay figure should be adjust-
+ed because Membrino voluntarily quit two jobs in 2011: A, D 
+& C Management Company; and Reddy Ice.  (R. Br. at 78–81.)  
+Regarding  Membrino’s  departure  from  A,  D  &  C,  Respond-
+ent’s  argument  fails  because  Membrino  immediately  began 
+working  for Reddy Ice without a break in service, and Reddy 
+Ice  provided  Membrino  with  more  work  hours.    (FOF,  sec. 
+D(5)–(6).)    The  General  Counsel  therefore  established  that 
+Membrino’s decision to quit his position at A, D & C was rea-
+sonable.
+
+As  for  Membrino’s  departure  from  Reddy  Ice,  the  record 
+shows that Membrino voluntarily left his position at that com-
+pany because Reddy Ice made Membrino a standby driver once 
+it learned that Membrino would be leaving the company to start 
+a  new  job  at  WSSC.    Thus,  rather  than  continue  working  at 
+Reddy Ice in a standby driver capacity with no guarantee that 
+he would be assigned work each day, Membrino quit his posi-
+tion at Reddy Ice and remained out of work for 1.5 weeks until 
+he began working at WSSC.  (FOF, sec. D(6).)  
+
+Given those circumstances, I  find that the General Counsel 
+also demonstrated that Membrino’s decision to quit his standby 
+driver position at Reddy Ice was reasonable.  Membrino had a 
+new  job  with  WSSC  already  in  hand  at  the  time,  and  Reddy 
+Ice’s decision to make Membrino a standby driver meant that 
+Membrino  would  be  assigned  little,  if  any,  work  had  he  re-
+mained  with  Reddy  Ice  for  the  1.5  week  period  in  question.  
+Since the standby driver position at Reddy Ice was not compa-
+rable to the full-time CDL driver position that Membrino’s held 
+with  Respondent,  Membrino  was  not  obligated  to  continue 
+working at Reddy Ice, and did not incur a willful loss of earn-
+ings  when  he  decided  to  quit  (until  his  new  job  with  WSSC 
+began  1.5  weeks  later).  See Glover  Bottled  Gas  Corp.,  313 
+NLRB 43, 43 (1993) (finding no willful loss of earnings when a 
+discriminatee  quit  a  position  that  offered  only  sporadic  em-
+ployment and moved to another State where he found work 2 
+weeks after moving), enfd. 47 F.3d 1230 (D.C. Cir. 1995), cert. 
+denied 516 U.S. 816 (1995).  I therefore decline to adjust the 
+backpay figure based on the occasions where Membrino volun-
+tarily quit interim employment.
+
+6. Was Membrino terminated from any interim jobs 
+
+due to willful misconduct?
+
+The  Board  consistently  has  held  that  a  discriminatee’s  dis-
+charge from interim employment, without more, is not enough 
+to constitute willful loss of employment.  Instead, a respondent 
+must  show  deliberate  or  gross  misconduct  on  the  part  of  the 
+
+PESSOA CONSTRUCTION CO.
+
+17
+
+discharged discriminatee to establish a willful loss of employ-
+ment,  and  hence,  a  failure  to  mitigate.    Ryder  System,  302 
+NLRB  608,  610  (1991)  (explaining  willful  misconduct  would 
+include, for example, an offense on the job that involved moral 
+turpitude, or misconduct that was so outrageous as to suggest 
+that the discriminatee was courting discharge), enfd. 983 F.2d 
+705 (6th Cir. 1993).
+
+Respondent  asserts  that  Membrino  engaged  in  willful  mis-
+conduct that led to his discharge from three jobs: Portable Stor-
+age;  Aggregate Industries; and Cylos, Inc.  (R. Br. at 81–82.)  
+The evidentiary record does not support Respondent’s conten-
+tion.    Regarding  Portable  Storage,  I  found  that  the  company 
+ended Membrino’s employment because it reevaluated its needs 
+and decided it did not need a full-time driver to work in north-
+ern  Virginia.    I  did  not  credit  the  testimony  that  Respondent 
+presented  that  Membrino  voluntarily  stopped  showing  up  for 
+work at Portable Storage because the witness who offered that 
+testimony  lacked  personal  knowledge  about  how  Membrino’s 
+employment  with  the  company  ended,  and  the  witness’  testi-
+mony was not corroborated by any contemporaneous business 
+records.  (FOF, sec. D(1).)  Membrino’s loss of employment at 
+Portable  Storage  because  the  company  reassessed  its  staffing 
+needs  falls  well  short  of  a  “willful  loss  of  employment”  that 
+would warrant terminating the backpay period.
+
+As  for  Aggregate  and  Cylos,  the  evidentiary  record  shows 
+that  those  companies  discharged  Membrino  for  poor  job  per-
+formance.    Specifically,  Aggregate  discharged  Membrino  be-
+cause he violated certain work rules and procedures (e.g., caus-
+ing truck damage on one occasion, not keeping his DOT card 
+current,  and  not  following  certain  procedures  to  maintain  his 
+truck and mix concrete properly) over a 6-month period, lead-
+ing Aggregate to conclude that he was not meeting the essential 
+functions of his job.  (FOF, sec. D(2).)  Cylos, meanwhile, dis-
+charged  Membrino  because  he  left  water  in  the  truck  lines 
+overnight  (albeit  due  to  an  apparent  miscommunication  with 
+the  company’s  mechanic),  and  consequently  the  truck  water 
+lines  froze  and  the  turnoff  valve  cracked.    (FOF,  sec.  D(3).)  
+Thus,  although  the  facts  show  that  Membrino’s  job  perfor-
+mance at Aggregate and Cylos was subpar at times, the facts do 
+not  show  that  Membrino  engaged  in  willful  misconduct  that 
+would  warrant  terminating  the  backpay  period  based  on  his 
+discharges from those companies.45  
+                                                          
+
+45 I  also  reject  Respondent’s  argument  that  the  backpay  period 
+should be limited because Membrino made false statements on his job 
+applications to various companies.  (See R. Br. at 82–84; see also FOF, 
+sec. D(1)–(2), (6)–(7) (describing false statements made in Membrino’s 
+job applications to Portable Storage, Aggregate, Cylos, Reddy-Ice, and 
+WSSC).)  As previously noted, there is no evidence that any company 
+refused  to  hire,  or  discharged,  Membrino  because  of  any  false  state-
+ments that he made on his job applications.  Nor is there any evidence 
+that  Respondent  would  not have  hired,  or  would  have  discharged, 
+Membrino  because  of  the  false  statements.    Further,  I  credited 
+Membrino’s  explanation  that he  made  the  false  statements  on  his job 
+applications because he was desperate to find employment.  While I do 
+not condone Membrino’s decision to make the false statements, I find 
+that the false statements do not constitute willful misconduct that would 
+warrant limiting the backpay period.  See First Transit, Inc., 350 NLRB 
+at 829 fn. 24 (although the Board did not condone the discriminatee’s 
+untruthful  statements  at  trial  and  in  her  application  for  employment 
+
+D. Net Backpay
+
+In sum, I find that Membrino is entitled to backpay for the 
+entire  backpay  period,  with  the  exception  of  the  following 
+times  where  I  determined  that  the  backpay  period  should  be 
+tolled:46
+
+April 9–27, 2009;
+August 30–December 2, 2010;
+May 31– uly 11, 2011;
+September 27, 2011–March 1, 2012; and 
+December 12, 2012–January 30, 2013.
+
+(Analysis,  sec.  C(1)(c),  (2).)   Taking  those dates  into  account 
+(by deducting 0.2 from the relevant 13-week quarter for every 
+weekday  that  Membrino  was  unavailable  to  work),47 I  have 
+determined that Membrino is owed $95,046.07 in net backpay, 
+as indicated in the following chart:
+
+Year
+2008
+2009
+
+Cal-
+endar 
+Quart
+er
+4
+1
+2
+3
+4
+1
+2
+3
+4
+
+Regu-
+lar 
+Hours
+205.2
+444.6
+362.5
+444.6
+444.6
+444.6
+444.6
+280.4
+143.6
+
+Over-
+time 
+Hours
+28.2
+61.1
+49.8
+61.1
+61.1
+61.1
+61.1
+38.5
+19.7
+
+Interim 
+Earnings
+
+Net Back-pay
+
+Gross 
+Backpay
+$5,445.00
+11,797.50
+9,618.40
+11,797.50
+11,797.50
+11,797.50
+11,797.50
+7,439.30
+3,809.30
+
+2010
+
+$0
+0
+0
+0
+0
+0
+
+$5,445.00
+11,797.50
+489,618.40
+11,797.50
+11,797.50
+11,797.50
+8,615.50
+492,181.84
+501004.18
+                                                                                            
+with the respondent, the Board still allowed the normal backpay reme-
+dy because there was no evidence that the respondent would not have 
+hired, or would have discharged, the discriminatee because of the un-
+truthful statements). 
+
+3,182.00
+5,257.46
+2,805.12
+
+46 Most  of  these  tolling  periods  correspond  to  times  when 
+Membrino’s  CDL  was  suspended.    My  decision  to  toll  the  backpay 
+period from August 30 to September 3, 2010, corresponds to two rea-
+sons  why  Membrino  was  unavailable  to  work—specifically,  that  his 
+CDL  was  suspended  and his  DOT  card  was  expired.    (Analysis,  sec. 
+C(1)(c), (2).)
+
+47 The  General  Counsel  used  a  similar  method  to  account  for 
+Membrino’s unavailability in November 2008.  (Tr. 42–43.)  I find that 
+method  to  be  reasonable,  and  do  not  accept  the  convoluted  alternate 
+method  that  Respondent  proposed  in  its  posttrial  brief  at  71–72  be-
+cause,  among  other  shortcomings,  Respondent  docked  Membrino’s 
+backpay  for  “unavailability”  on  weekends  when  there  is  no  evidence 
+that Membrino customarily worked weekends when he was employed 
+by Respondent.
+
+48 I deducted 12 days (2.4 weeks) from the second quarter of 2009 
+because the backpay period was tolled from April 9–27, 2009 (the final 
+day of the period counts as a working day because Membrino’s CDL 
+suspension was lifted that day).  Gross backpay = (10.6 weeks x regular 
+hours at $22/hour) + (10.6 weeks x overtime hours at $33/hour).
+
+49 I deducted 24 days (4.8 weeks) from the third quarter of 2010 be-
+cause the backpay period was tolled in that quarter from August 30 to 
+September 30, 2010. Interim earnings for that quarter were prorated at a 
+8.2  week/13  week  ratio  to  avoid  giving  Respondent  an  unwarranted 
+offset for interim earnings that accrued while the backpay period was 
+tolled.
+
+50 I deducted 44 days (8.8 weeks) from the fourth quarter of 2010 
+because the backpay period was tolled in that quarter from October 1 to 
+December 2, 2010.  Interim earnings for that quarter were prorated at a 
+4.2 week/13 week ratio.
+
+18
+
+2011
+
+2012
+
+2013
+
+Total 
+Net 
+Back
+-pay
+
+1
+2
+3
+
+4
+1
+2
+3
+4
+1
+
+DECISIONS OF THE NATIONAL LABOR RELATIONS BOARD
+
+444.6
+287.3
+376.24
+
+0
+150.5
+444.6
+444.6
+348.8
+54.7
+
+61.1
+39.5
+51.7
+
+0
+20.7
+61.1
+61.1
+48.0
+7.5
+
+11,797.50
+7,624.10
+9,982.50
+
+0
+
+3,994.10
+11,797.50
+11,797.50
+9,257.60
+$1,450.90
+
+1,727.00
+5,518.15
+7,298.10
+
+0
+
+3,347.30
+9,845.00
+9,845.00
+7,679.10
+$4,472.3
+7
+
+10,070.50
+512,105.95
+522,684.40
+
+530
+54646.80
+1,952.50
+1,952.50
+551,578.50
+56$0
+
+$95,046.07
+
+Conclusion
+
+Based  on  the  findings  and  analysis  set  forth  above,  and  on 
+the  entire  record,  I  issue  the  following  recommended  supple-
+mental
+
+ORDER
+
+Respondent,  Pessoa  Construction  Company,  Fairmont 
+Heights, Maryland, its officers, agents, successors, and assigns, 
+shall make whole discriminatee William Membrino by paying 
+him  $95,046.07  in  net  backpay,  plus  interest at  the rate  pre-
+scribed  in  New  Horizons  for  the  Retarded,  283  NLRB  1173 
+(1987),  compounded  daily  as  prescribed  in  Kentucky  River 
+Medical Center, 356 NLRB No. 8 (2010), accrued to the date 
+of payment, and minus tax withholding required by Federal and 
+State law.57
+
+Dated, Washington, D.C.  December 24, 2013
+
+                                                          
+
+51 I deducted 23 days (4.6 weeks) from the second quarter of 2011 
+because the backpay period was tolled in that quarter from May 31 to 
+June 30, 2011.  Interim earnings for that quarter were prorated at a 8.4 
+week/13 week ratio.
+
+52 I deducted 10 days (2 weeks) from the third quarter of 2011 be-
+cause the backpay period was tolled in that quarter from July 1–11 and 
+September 27–30, 2011.  Interim earnings for that quarter were prorat-
+ed at an 11 week/13 week ratio.
+
+53 The  backpay  period  was  tolled  for  the  entire  fourth  quarter  of 
+2011.  Respondent did not receive an offset for the $7,760 in interim 
+earnings that Membrino received that quarter.
+
+54 I deducted 43 days (8.6 weeks) from the first quarter of 2012 be-
+cause the backpay period was tolled in that quarter from January 1 to 
+March 1, 2012.  Interim earnings for that quarter were prorated at a 4.4 
+week/13 week ratio.
+
+55 I deducted 14 days (2.8 weeks) from the fourth quarter of 2012 
+because the backpay period was tolled in that quarter from December 
+12–31, 2012.  Interim earnings for that quarter were prorated at a 10.2 
+week/13 week ratio.
+
+56 After  tolling  the  backpay  period  from  January  1–30,  2013, 
+Membrino worked 8 days (1.6 weeks) before the backpay period ended 
+on February 8, 2013.  Interim earnings were prorated at an 8.2 week/13 
+week ratio (Membrino worked 8.2 weeks in the first quarter of 2013, 
+not counting the period that backpay was tolled).
+
+57 Neither the Board’s enforced order nor the compliance specifica-
+tion includes a remedy for the adverse consequences of the multiyear 
+lump  sum  backpay  award  to  Membrino.    See  Latino  Express,  359 
+NLRB No. 44 (2012), which issued after the Board’s order in this case.  
+Accordingly,  I have not included such a remedy in the recommended 
+supplemental  order.    See  Life’s  Connections, 359  NLRB  No.  85,  slip 
+op. at 2 fn. 5 (2013).  
+
+

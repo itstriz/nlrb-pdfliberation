@@ -2,11 +2,11 @@ import feedparser
 import os
 import urllib2
 
-def get_pdf_file(url):
+def get_pdf_file(url, output_file):
     response = urllib2.urlopen(url)
     html = response.read()
 
-    temp_pdf_file = open('temp.pdf', 'wb')
+    temp_pdf_file = open(output_file, 'wb')
     temp_pdf_file.write(html)
     temp_pdf_file.close()
 
@@ -20,8 +20,10 @@ print "\nFirst Document URL:"
 board_decision_doc = board_decisions_entries[0]['links'][0]['href']
 print board_decision_doc
 
-print "\nDownloading file..."
-print get_pdf_file(board_decision_doc)
+foo = 1
+for entry in board_decisions_entries:
+    get_pdf_file(entry['links'][0]['href'], 'sample' + str(foo) + '.pdf')
+    os.system('pdf2txt.py sample' + str(foo) + '.pdf > sample' + str(foo) + '.txt')
+    foo = foo + 1
 
-print "File downloaded as temp.pdf"
-os.system('pdf2txt.py temp.pdf')
+
