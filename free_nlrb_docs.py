@@ -21,9 +21,10 @@ def extract_from_template(data_file):
     if doc_lines[0][0:6] == 'UNITED':
         print "Template found. Parsing data..."
         case_no = find_case_no(doc_text)
+        employer = find_employer_name(doc_lines)
 
         return_data =   {   'location'      : doc_lines[4].strip(),
-                            'employer'      : doc_lines[6].strip(),
+                            'employer'      : employer,
                             'petitioner'    : doc_lines[12].strip(),
                             'case_no'       : case_no,
                         }
@@ -39,6 +40,14 @@ def find_case_no(doc_text):
         case_nums.append(num)
 
     return case_nums
+
+def find_employer_name(doc_list):
+    for row in doc_list:
+        if row.strip() == 'Employer':
+            row_num = doc_list.index(row)
+            break
+    
+    return doc_list[row_num-2].strip()
 
 def get_all_samples(board_decisions_entries):
     foo = 1
