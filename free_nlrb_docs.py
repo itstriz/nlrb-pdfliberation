@@ -41,7 +41,8 @@ def get_all_samples(board_decisions_entries):
         get_pdf_file(doc_url, file_name)
         print "Converting " + file_name + " to text"
         os.system('pdf2txt.py ' + file_name + ' > ' + txt_name)
-        print "Checking for template: " + extract_from_template(txt_name)
+        print "Checking for template:"
+        print extract_from_template(txt_name)
         foo = foo + 1
     
 print "Grabbing NLRB Decisions Feed..."
@@ -50,5 +51,6 @@ board_decisions_feed = feedparser.parse('http://www.nlrb.gov/rss/rssBoardDecisio
 print "\nParsing Entries..."
 board_decisions_entries = board_decisions_feed['entries']
 
-print "Testing sample1.txt"
-print extract_from_template('sample1.txt')
+#print "Testing sample1.txt"
+#print extract_from_template('sample1.txt')
+get_all_samples(board_decisions_entries)
