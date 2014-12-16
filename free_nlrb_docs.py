@@ -21,7 +21,11 @@ def extract_from_template(data_file):
     # Template 1
     if doc_lines[0][0:6] == 'UNITED':
         print "Template found. Parsing data..."
-        return_data = {'location': doc_lines[4].strip()}
+        return_data =   {   'location'      : doc_lines[4].strip(),
+                            'employer'      : doc_lines[6].strip(),
+                            'petitioner'    : doc_lines[12].strip(),
+                            'case_no'       : doc_lines[16][5:].strip(),
+                        }
 
         return return_data        
     else:
